@@ -18,7 +18,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to make it appear floating */
   border-radius: 8px; /* Optional: Add rounded corners for a floating effect */
   padding: 8px; /* Add some padding for spacing */
-  margin: 1em;
+  margin: .75em;
   margin-right: 1.25em;
 }
 
@@ -45,7 +45,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to make it appear floating */
   border-radius: 8px; /* Optional: Add rounded corners for a floating effect */
   padding: 8px; /* Add some padding for spacing */
-  margin: 0.25em 1em;
+  margin: 0.25em .75em;
   margin-right: 1.25em;
   width: unset;
 }
@@ -53,11 +53,11 @@
 [data-type="bookmarks"] > .nav-header,
 [data-type="search"] > .search-row,
 [data-type="recent-files"] > .view-content {
-  margin-top: 1em;
+  margin-top: .75em;
 }
 
 [data-type="bookmarks"] > .view-content,
 [data-type="recent-files"] > .view-content,
 [data-type="search"] > .search-result-container {
-  margin-bottom: 1em;
+  margin-bottom: .75em;
 }
