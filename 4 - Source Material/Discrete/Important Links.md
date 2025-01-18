@@ -1,0 +1,1 @@
+- [b] [Examens & Tentamens](https://vince-deraemaeker.notion.site/Discrete-Wiskunde-Examens-94db4f51f2954e4e8a4c7e03853e8dcc)

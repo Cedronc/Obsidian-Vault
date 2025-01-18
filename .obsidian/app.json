@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "vimMode": true,
+  "useTab": false,
+  "newLinkFormat": "shortest",
+  "spellcheck": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2 - Rough Notes",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}

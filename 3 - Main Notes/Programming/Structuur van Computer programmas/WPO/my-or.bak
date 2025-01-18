@@ -1,0 +1,6 @@
+(define (my-or bool1 bool2)
+  (if bool1
+      bool1
+      bool2))
+
+(my-or #t #f)

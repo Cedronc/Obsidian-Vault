@@ -1,0 +1,15 @@
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "folder-colors",
+    "file-explorer",
+    "print",
+    "dashboard++",
+    "custom-styling"
+  ]
+}

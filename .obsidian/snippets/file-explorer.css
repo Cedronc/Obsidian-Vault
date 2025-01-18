@@ -1,0 +1,34 @@
+.nav-folder [data-path="0 - Templates"] {
+    /* background-color: rgba(var(--color-green-rgb), 0.25); */
+    color: #c9c5bc;
+}
+
+.nav-folder [data-path="1- Indexes"] {
+    color: #a7aca0;
+}
+
+.nav-folder [data-path="2 - Rough Notes"] {
+    color: #849389;
+}
+
+.nav-folder [data-path="3 - Main Notes"] {
+    color: #617b77;
+}
+
+.nav-folder [data-path="4 - Source Material"] {
+    color: #446268;
+}
+
+.nav-folder [data-path="9 - Meta"] {
+    color: #2f4858 ;
+}
+
+/* Match the nav-files-container background to the Markdown source viewer background */
+.nav-files-container11 {
+    background-color: var(--background-primary); /* Adjust to match the Markdown viewer */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to make it appear floating */
+    border-radius: 8px; /* Optional: Add rounded corners for a floating effect */
+    padding: 8px; /* Add some padding for spacing */
+    margin: 8px; /* Optional: Add spacing around the container */
+    margin-right: 16px;
+}

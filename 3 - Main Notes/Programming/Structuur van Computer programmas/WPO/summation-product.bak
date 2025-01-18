@@ -1,0 +1,29 @@
+;Summation
+(define (sum term i next t)
+  (if (> i t)
+      0
+      (+ (term i) (sum term (next i) next t))))
+
+(define (term i) (/ i 2))
+(define (next i) (+ i 1))
+(sum  term 0 next 5)
+
+
+;Product
+(define (product factor i next t)
+  (if (> i t)
+      1
+      (* (factor i) (product factor (next i) next t))))
+
+(product (lambda (i) (/ i 2)) 1 (lambda (i) (+ i 1)) 50)
+
+
+(define (iter-product factor i next t)
+
+  (define (iter ctr t result)
+    (if (> ctr t)
+        1
+        (iter (next ctr) (* (factor i) result))))
+  (iter i 50 1)
+  )
+(product (lambda (i) (/ i 2)) 1 (lambda (i) (+ i 1)) 50)

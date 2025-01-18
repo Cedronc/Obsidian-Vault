@@ -1,0 +1,14 @@
+{
+  "minimal-style@@sidebar-tabs-names": "tab-names-off",
+  "minimal-style@@vault-profile-display": "vault-profile-default",
+  "minimal-style@@hide-help": false,
+  "minimal-style@@hide-settings": false,
+  "minimal-style@@metadata-heading-off": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-maroon",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-maroon",
+  "minimal-style@@bg3@@light": "#AC8D1F08",
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@animations": "fast-animations"
+}

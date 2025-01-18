@@ -1,0 +1,63 @@
+/* ===== snappier animations ==== */
+/* .workspace-tab-header,
+.workspace-tab-header-inner,
+.workspace-tab-container-before,
+.workspace-tab-container-after {
+  transition: background-color 100ms linear;
+} */
+
+/* ===== margins ==== */
+.workspace-tab-header-container {
+  background-color: var(--background-secondary) !important;
+}
+
+.nav-files-container {
+  background-color: var(
+    --background-primary
+  ); /* Adjust to match the Markdown viewer */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to make it appear floating */
+  border-radius: 8px; /* Optional: Add rounded corners for a floating effect */
+  padding: 8px; /* Add some padding for spacing */
+  margin: 1em;
+  margin-right: 1.25em;
+}
+
+/* [data-type="search"],
+[data-type="bookmarks"],
+[data-type="recent-files"] {
+  margin-top: .75em !important;
+} */
+
+[data-type="bookmarks"] > .nav-header,
+[data-type="bookmarks"] > .view-header,
+[data-type="bookmarks"] > .view-content,
+[data-type="recent-files"] > .nav-header,
+[data-type="recent-files"] > .view-header,
+[data-type="recent-files"] > .view-content,
+[data-type="search"] > .search-row,
+[data-type="search"] > .search-info-container,
+[data-type="search"] > .search-params,
+[data-type="search"] > .search-results-info,
+[data-type="search"] > .search-result-container {
+  background-color: var(
+    --background-primary
+  ); /* Adjust to match the Markdown viewer */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to make it appear floating */
+  border-radius: 8px; /* Optional: Add rounded corners for a floating effect */
+  padding: 8px; /* Add some padding for spacing */
+  margin: 0.25em 1em;
+  margin-right: 1.25em;
+  width: unset;
+}
+
+[data-type="bookmarks"] > .nav-header,
+[data-type="search"] > .search-row,
+[data-type="recent-files"] > .view-content {
+  margin-top: 1em;
+}
+
+[data-type="bookmarks"] > .view-content,
+[data-type="recent-files"] > .view-content,
+[data-type="search"] > .search-result-container {
+  margin-bottom: 1em;
+}

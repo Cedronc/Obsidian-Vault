@@ -1,0 +1,5 @@
+(define (my-if test t f)
+  (cond
+    (test t)
+    (else f)))
+
