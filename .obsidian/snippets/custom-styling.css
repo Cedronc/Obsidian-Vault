@@ -19,7 +19,7 @@
   border-radius: 8px; /* Optional: Add rounded corners for a floating effect */
   padding: 8px; /* Add some padding for spacing */
   margin: .75em;
-  margin-right: 1.25em;
+  margin-right: 1em;
 }
 
 /* [data-type="search"],
@@ -46,7 +46,7 @@
   border-radius: 8px; /* Optional: Add rounded corners for a floating effect */
   padding: 8px; /* Add some padding for spacing */
   margin: 0.25em .75em;
-  margin-right: 1.25em;
+  margin-right: 1em;
   width: unset;
 }
 

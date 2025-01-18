@@ -164,7 +164,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,7 +289,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de594c978190c8ec",
+  "active": "1b6131c37f9e78c1",
   "lastOpenFiles": [
     "New Text Document.txt",
     "README.md",
