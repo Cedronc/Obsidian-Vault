@@ -99,12 +99,15 @@
             "id": "f24a788149384c40",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf"
+                "file": "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hoofdstuk 3"
+              "icon": "lucide-file",
+              "title": "Positional Lists"
             }
           }
         ],
@@ -407,6 +410,8 @@
   },
   "active": "f24a788149384c40",
   "lastOpenFiles": [
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
+    "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
     "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
     "3 - Main Notes/Important Other/Planning.md",
@@ -414,7 +419,6 @@
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
     "1 - Indexes/Reële Functies.md",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "3 - Main Notes/Programming/Algorithms - 1/Sorted List.md",
@@ -445,7 +449,6 @@
     "1 - Indexes/Discrete Wiskunde.md",
     "2 - Rough Notes/fuck le me.md",
     "3 - Main Notes/Programming/Algorithms - 1/Hashing.md",
-    "2 - Rough Notes/Dictionary.md",
     "4 - Source Material/Images/Pasted image 20250110134132.png",
     "4 - Source Material/Images/Pasted image 20250110134131.png",
     "4 - Source Material/Images/Pasted image 20250110134122.png",
