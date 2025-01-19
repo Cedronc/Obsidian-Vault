@@ -1129,6 +1129,7 @@ AAAABF
 Avg
 Again
 Alle
+Altijd
 Theorie
 Tijdsindicatie
 Trees
@@ -14135,6 +14136,7 @@ mergesort
 manier
 mergen
 merge
+moves
 samenvatting
 specifieke
 scheme
@@ -26912,6 +26914,8 @@ takes
 tijdens
 tot
 tenzij
+tussen
+totaal
 Boompjes
 BM
 BFa
@@ -37358,6 +37362,7 @@ haal
 heap
 handig
 helften
+hoeveelheid
 Repl
 Runtime
 Recursie
@@ -50055,6 +50060,7 @@ FCQ
 Fwfgdc
 Futura
 First
+FzJTUIDM
 Zs
 Zt
 Zo
