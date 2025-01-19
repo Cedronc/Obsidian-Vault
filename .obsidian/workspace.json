@@ -64,9 +64,24 @@
               "icon": "lucide-file",
               "title": "Advanced Sorting Algorithms"
             }
+          },
+          {
+            "id": "f1d42e31dc8ac6a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Rough Notes/Lineaire Sorteeralgoritmen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lineaire Sorteeralgoritmen"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "bd6be37c883d4400",
@@ -338,12 +353,13 @@
       }
     ]
   },
-  "active": "2f69076b2166475b",
+  "active": "f1d42e31dc8ac6a6",
   "lastOpenFiles": [
-    "2 - Rough Notes/Mergesort Example.md",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
-    "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
+    "2 - Rough Notes/Lineaire Sorteeralgoritmen.md",
     "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
+    "2 - Rough Notes/Mergesort Example.md",
+    "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
     "2 - Rough Notes/In-Place.md",
     "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md",
     "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md",
