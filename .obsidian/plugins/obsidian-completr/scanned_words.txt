@@ -12969,6 +12969,7 @@ vectors
 verzetten
 veranderd
 vroeger
+vectoren
 mijn
 memo
 mbv
@@ -14122,6 +14123,8 @@ mmw
 mucq
 mergesort
 manier
+mergen
+merge
 samenvatting
 specifieke
 scheme
@@ -22285,6 +22288,7 @@ indices
 iteraties
 idee
 itrVAK
+iter
 Check
 Compiler
 Closure
@@ -25741,6 +25745,7 @@ nNN
 nEHt
 nti
 not
+nzus
 tijd
 tekenen
 true
@@ -36093,6 +36098,7 @@ chosen
 crBlfaxf
 changed
 compares
+cSmJq
 herhaling
 hand
 het
