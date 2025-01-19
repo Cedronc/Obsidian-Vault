@@ -54,15 +54,12 @@
             "id": "dd1a4851cd8bfc43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lineaire Datastructuren"
+              "icon": "lucide-file-text",
+              "title": "Hoofdstuk 6"
             }
           },
           {
@@ -96,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "bd6be37c883d4400",
@@ -368,11 +365,12 @@
       }
     ]
   },
-  "active": "dd1a4851cd8bfc43",
+  "active": "de594c978190c8ec",
   "lastOpenFiles": [
-    "Sentinal Search.png",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
+    "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "3 - Main Notes/Programming/Algorithms - 1/Sorted List.md",
     "Binary Search.png",
@@ -390,7 +388,6 @@
     "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf.crdownload",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf.crdownload",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf.crdownload",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 2.pdf",
@@ -415,7 +412,6 @@
     "4 - Source Material/Images/Pasted image 20250110134126.png",
     "4 - Source Material/Images/Pasted image 20250110134118.png",
     "4 - Source Material/Images/Pasted image 20250110134123.png",
-    "4 - Source Material/Images/Pasted image 20250110134128.png",
     "Untitled.canvas"
   ]
 }
