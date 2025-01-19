@@ -2680,6 +2680,7 @@ TODO
 Thus
 Types
 This
+Terug
 Snelheid
 Stacks
 Sorteren
@@ -4039,6 +4040,7 @@ Search
 Signature
 Says
 Style
+Schrijven
 en
 evaluator
 errors
@@ -5418,6 +5420,9 @@ easier
 encapsulates
 examples
 experimental
+eaf
+enkelvoudig
+effici
 geheugengebruik
 gaat
 gegenereerde
@@ -6841,6 +6846,8 @@ group
 getter
 give
 gives
+gerepresenteerd
+geoptimaliseerd
 Patternmatching
 PrioQue
 Positional
@@ -9489,6 +9496,7 @@ Mutators
 Multiple
 Made
 Making
+Mutaties
 de
 duren
 diagrammen
@@ -10891,6 +10899,8 @@ describes
 defined
 detail
 deeper
+datastructuur
+dubbel
 KMP
 Kleine
 KHTML
@@ -13585,6 +13595,7 @@ point
 parameters
 procedural
 part
+prestaties
 van
 vo
 voor
@@ -14906,6 +14917,7 @@ verbeteringen
 vanachter
 verder
 very
+vereisen
 mijn
 memo
 mbv
@@ -16254,6 +16266,7 @@ mentioning
 makes
 method
 many
+metadata
 samenvatting
 specifieke
 scheme
@@ -17658,6 +17671,9 @@ smaller
 supply
 stopwatch
 specs
+snellere
+sterk
+structuur
 abracadabra
 alle
 aan
@@ -19008,6 +19024,12 @@ added
 add
 approach
 activities
+about
+always
+afcd
+aefa
+aef
+aanpak
 Lineaire
 Lees
 Lin
@@ -20339,6 +20361,7 @@ LUv
 Lists
 Linked
 List
+Lezen
 Datastruct
 Dagen
 Database
@@ -28474,6 +28497,8 @@ further
 fix
 factors
 funciton
+fbb
+functioneel
 na
 nodig
 niet
@@ -29747,6 +29772,7 @@ name
 number
 names
 now
+ntie
 tijd
 tekenen
 true
@@ -31087,6 +31113,8 @@ typedef
 types
 than
 test
+talking
+toekent
 Boompjes
 BM
 BFa
@@ -32405,6 +32433,8 @@ BmF
 Binary
 Basically
 Because
+Belangrijke
+Berekent
 ook
 omgevingsmodel
 omgeving
@@ -35036,6 +35066,8 @@ leaks
 less
 letter
 languages
+lineaire
+lengteberekeningen
 External
 Externe
 Ez
@@ -36374,6 +36406,7 @@ EQt
 Edq
 Eon
 Extra
+Effici
 wel
 wu
 wt
@@ -38963,6 +38996,7 @@ being
 based
 below
 background
+betere
 kennen
 kunnen
 kG
@@ -41740,6 +41774,8 @@ cleaner
 called
 computer
 characteristics
+cfc
+ccbacdd
 herhaling
 hand
 het
@@ -48444,6 +48480,7 @@ Onderdelen
 Operation
 Object
 Other
+Operaties
 Imperatief
 Important
 Intel
@@ -49799,6 +49836,7 @@ IQo
 Implementatie
 Implementors
 Import
+Implementatiedetails
 Verschil
 VEe
 Va
@@ -51144,6 +51182,9 @@ Verificatie
 Vector
 Varianten
 Values
+Voeg
+Verwijder
+Verbeteringen
 recursieve
 rY
 rU
@@ -52487,6 +52528,8 @@ readability
 real
 records
 running
+ring
+referentie
 God
 Google
 Gecko
@@ -53798,6 +53841,7 @@ Generality
 Giving
 Generic
 Genericity
+Gebruik
 zoek
 zGQ
 ze
@@ -61711,6 +61755,7 @@ WQY
 Wat
 Waar
 With
+Wijzig
 JU
 Jh
 JhM

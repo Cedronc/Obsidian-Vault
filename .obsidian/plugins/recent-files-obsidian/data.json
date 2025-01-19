@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Goniometrie",
-      "path": "1 - Indexes/Goniometrie.md"
+      "basename": "Sorted List",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/Sorted List.md"
+    },
+    {
+      "basename": "Ring Datastructuur",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md"
     },
     {
       "basename": "Lineaire Datastructuren",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md"
     },
     {
+      "basename": "Planning",
+      "path": "3 - Main Notes/Important Other/Planning.md"
+    },
+    {
       "basename": "Hoofdstuk 3",
       "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf"
     },
     {
+      "basename": "Matrices",
+      "path": "3 - Main Notes/Maths/Algebra/Matrices.md"
+    },
+    {
       "basename": "VUB - Vakken",
       "path": "1 - Indexes/VUB - Vakken.md"
+    },
+    {
+      "basename": "Algorithms & Datastructures",
+      "path": "1 - Indexes/Algorithms & Datastructures.md"
+    },
+    {
+      "basename": "Goniometrie",
+      "path": "1 - Indexes/Goniometrie.md"
     },
     {
       "basename": "Advanced Sorting Algorithms",
@@ -27,10 +47,6 @@
     {
       "basename": "KMP-Preprocess Example",
       "path": "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md"
-    },
-    {
-      "basename": "Planning",
-      "path": "3 - Main Notes/Important Other/Planning.md"
     },
     {
       "basename": "Hoofdstuk 5",
