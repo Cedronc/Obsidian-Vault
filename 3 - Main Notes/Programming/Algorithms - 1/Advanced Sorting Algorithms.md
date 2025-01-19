@@ -42,7 +42,7 @@ The pivot gets chosen of 3 elements...
     Niet stabiel bij strict ongelijkheid.
 **Prop 3.**
     Goed voor lijsten, vandaar [[Multiway Balanced Merge Sort]].
-    Ook andere externe sorting algorithmes. 
+    Ook andere externe sorting algoritmes. 
 ## Explained
 ![[2 - Rough Notes/Mergesort Example|1000]]
 

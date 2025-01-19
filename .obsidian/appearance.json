@@ -1,6 +1,6 @@
 {
   "theme": "obsidian",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "JetBrains Mono NL,JetBrains Mono",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
   "cssTheme": "Minimal",
@@ -11,5 +11,6 @@
     "print",
     "dashboard++",
     "custom-styling"
-  ]
+  ],
+  "textFontFamily": "JetBrains Mono NL,JetBrains Mono"
 }
