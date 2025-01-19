@@ -1,6 +1,6 @@
 --- 
 
-**TLDR:** Een [[Lineaire Datastructuren|Lineaire datastructuur]] die voor elke entry in de lijst ook een 
+**TLDR:** Een [[Lineaire Datastructuren|Lineaire datastructuur]] die voor elke entry in de lijst ook een unieke positie. Elk element in de lijst heeft een unieke volgende en vorige pointer (buiten first & last). Geimplement met 
 
 # Properties
 **Prop 1.**
