@@ -13,7 +13,7 @@
 - [x] H6: Boompjes  
     - [ ] AVT-Trees
 - [x] H7: Hashing (ook lang)  
-- [ ] Positional-list, sorted-lst implementatie
+- [x] Positional-list, sorted-lst implementatie
 ### Praktijk
 - [ ] Qua de la fuck??
 ### Tijdsindicatie
