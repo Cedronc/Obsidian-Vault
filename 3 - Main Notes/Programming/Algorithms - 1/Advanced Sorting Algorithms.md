@@ -2,7 +2,7 @@
 
 # Quicksort 
 ---
-#quicksort #divide_and_conquer
+#quicksort #sorting #divide_and_conquer
 **TLDR:**
     Avg. case performance of $n\cdot (log(n))$.
     First choose pivot then partition.
@@ -29,7 +29,7 @@ The pivot gets chosen of 3 elements...
 
 # Merge Sort
 ---
-#mergesort #divide_and_conquer
+#mergesort #sorting #divide_and_conquer
 **TLDR:** 
     Al het werk gebeurt recursief en tijdens het backtracken. 
     Rits alle opgesplitste arrays aan elkaar zodat ze gesorteerd zijn.
@@ -45,15 +45,9 @@ The pivot gets chosen of 3 elements...
 
 
 # Heap Sort
-#heapsort 
+---
+#heapsort #sorting 
 
 **TLDR:** 
-    Knal een `from-scheme-vector` en haal de elementen eruit.
-
-## Klad yap
-Min heap,
-Naive manier niet in-place
-
-Maar kan wel in-place
-
+    Knal een `from-scheme-vector` in geval van vectors in een heap en delete dan tot de heap leeg is.
 
