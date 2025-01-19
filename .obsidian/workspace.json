@@ -54,24 +54,15 @@
             "id": "25ee5435d1529540",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2 - Rough Notes/Mergesort Example.md"
+                "file": "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Mergesort Example"
-            }
-          },
-          {
-            "id": "8d0529d344c58f90",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bubble Sort"
+              "icon": "lucide-file",
+              "title": "Advanced Sorting Algorithms"
             }
           }
         ],
@@ -186,8 +177,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -348,10 +338,10 @@
       }
     ]
   },
-  "active": "25ee5435d1529540",
+  "active": "2f69076b2166475b",
   "lastOpenFiles": [
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
     "2 - Rough Notes/Mergesort Example.md",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
     "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "2 - Rough Notes/In-Place.md",
