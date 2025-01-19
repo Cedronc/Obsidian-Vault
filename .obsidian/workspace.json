@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "bd6be37c883d4400",
@@ -365,9 +365,11 @@
       }
     ]
   },
-  "active": "de594c978190c8ec",
+  "active": "0f9ded474292ab9e",
   "lastOpenFiles": [
+    "1 - Indexes/Reële Functies.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
+    "3 - Main Notes/Important Other/Planning.md",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "Sentinal Search.png",
@@ -376,7 +378,6 @@
     "Binary Search.png",
     "Sorted List - Add!.png",
     "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
-    "3 - Main Notes/Important Other/Planning.md",
     "3 - Main Notes/Maths/Algebra/Matrices.md",
     "1 - Indexes/VUB - Vakken.md",
     "1 - Indexes/Algorithms & Datastructures.md",
