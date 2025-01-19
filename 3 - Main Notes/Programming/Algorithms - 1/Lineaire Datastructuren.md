@@ -15,7 +15,7 @@ Voor de headed list zit hier een pointer naar het eerste pair van de lijst en de
 Onze geïmplementeerd positional list is met vectoren. 
 
 ADT met een generic: <V, P>
-Waar V gekozen wordt door de gebruiker en P het positionele datatype
+Waar V gekozen wordt door de gebruiker en P het positionele datatype. P is position, V is value.
 Met deze implementaties:
 ![[Pasted image 20241228122035.png]]
 
