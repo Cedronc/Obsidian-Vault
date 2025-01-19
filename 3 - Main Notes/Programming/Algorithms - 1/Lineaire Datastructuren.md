@@ -110,7 +110,7 @@ We voegen het gezochte element vanachter toe (`add-last!` moet wel O(1) zijn.) e
 
 ### Sorted List
 Dit gebruikt een gesorteerde lijst wat dus een heel ander ADT gebruikt om de lijst te gebruiken. 
-(TODO: echt geen goesting nu fuck dit lijkt ook niet nuttig)
+![[Sorted List]]
 
 ### Binary Search
 Heeft een gesorteerde lijst nodig en O(1) indexering. Het enige zoek algoritme dat in O(log(n)) kan vinden. 

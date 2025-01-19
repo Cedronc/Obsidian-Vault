@@ -7,7 +7,14 @@
     `add!` is dus een $O(n)$ procedure.
     Ook `delete!` omdat er een storage move moet gebeuren.
 
-# Use-Cases
+## Implementatiedetails 
+**add!**.
+    ![[Sorted List - Add!.png|500]]
+    De `vector-iter` let zorgt dat de elementen 1 opgeschoven worden en op de juiste plaats het element geplaatst wordt.
+**delete!**.
+    Om een element op een bepaalde plaats te verwijderen moeten alle elementen vanaf die index een positie naar links opgeschoven worden. Vandaar de $O(n)$ time complexion.
+**find**:
+    Naive implementatie met sequentieel zoeken is in $O(n)$, maar kan gemakkelijk geoptimaliseerd worden door bv. Binair zoeken, sentinal search.
 
-# References
-- [VUB - Cursus](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#listslinkedimplementation)
+### Find: Binary Search
+![[Binary Search.png|500]]

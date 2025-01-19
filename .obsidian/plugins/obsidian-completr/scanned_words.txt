@@ -6848,6 +6848,7 @@ give
 gives
 gerepresenteerd
 geoptimaliseerd
+geplaatst
 Patternmatching
 PrioQue
 Positional
@@ -14918,6 +14919,7 @@ vanachter
 verder
 very
 vereisen
+vanaf
 mijn
 memo
 mbv
@@ -16267,6 +16269,7 @@ makes
 method
 many
 metadata
+move
 samenvatting
 specifieke
 scheme
@@ -17674,6 +17677,9 @@ specs
 snellere
 sterk
 structuur
+storage
+search
+snel
 abracadabra
 alle
 aan
@@ -29773,6 +29779,7 @@ number
 names
 now
 ntie
+nieuw
 tijd
 tekenen
 true
@@ -32435,6 +32442,7 @@ Basically
 Because
 Belangrijke
 Berekent
+Binair
 ook
 omgevingsmodel
 omgeving
@@ -33691,6 +33699,8 @@ operations
 one
 occur
 other
+operatie
+opgeschoven
 lang
 list
 lst
@@ -38997,6 +39007,7 @@ based
 below
 background
 betere
+bepaalde
 kennen
 kunnen
 kG
@@ -51185,6 +51196,7 @@ Values
 Voeg
 Verwijder
 Verbeteringen
+Vandaar
 recursieve
 rY
 rU
@@ -66989,6 +67001,7 @@ jaN
 jixE
 jMKNs
 just
+juiste
 xI
 xBor
 xO
