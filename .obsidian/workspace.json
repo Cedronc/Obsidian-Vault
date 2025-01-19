@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "bd6be37c883d4400",
@@ -353,11 +353,11 @@
       }
     ]
   },
-  "active": "f1d42e31dc8ac6a6",
+  "active": "de594c978190c8ec",
   "lastOpenFiles": [
     "2 - Rough Notes/Lineaire Sorteeralgoritmen.md",
-    "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
+    "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "2 - Rough Notes/Mergesort Example.md",
     "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
     "2 - Rough Notes/In-Place.md",
@@ -400,7 +400,6 @@
     "4 - Source Material/Images/Pasted image 20250110134120.png",
     "4 - Source Material/Images/image_0 3.png",
     "4 - Source Material/Images/image_2 3.png",
-    "2 - Rough Notes/Lambda oefeningen.md",
     "Untitled.canvas"
   ]
 }

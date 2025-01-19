@@ -7,7 +7,9 @@
 - [x] H4: Stacks, Heaps, PrioQue, Queeus  
     - [ ] Lees de specifieke implementatie voor alle Lin ADT's
     - [ ] Check de "from-scheme-vector" procedure na.
-- [ ] H5: Sorteren (veel tijd voor nodig)  
+- [x] H5: Sorteren (veel tijd voor nodig)  
+    - [ ] Radix Sort
+    - [ ] Counting Sort
 - [x] H6: Boompjes  
 - [x] H7: Hashing (ook lang)  
 - [ ] Positional-list, sorted-lst implementatie
