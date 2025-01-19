@@ -11808,6 +11808,7 @@ pivot
 partition
 place
 posities
+proffen
 van
 vo
 voor
@@ -12970,6 +12971,7 @@ verzetten
 veranderd
 vroeger
 vectoren
+volgend
 mijn
 memo
 mbv
@@ -15338,6 +15340,7 @@ swaps
 staat
 stoppen
 strikte
+subvector
 abracadabra
 alle
 aan
@@ -21120,6 +21123,7 @@ QZG
 QhZ
 QTr
 Quicksort
+Qcyz
 implementatie
 indexing
 interpeter
@@ -22289,6 +22293,7 @@ iteraties
 idee
 itrVAK
 iter
+index
 Check
 Compiler
 Closure
@@ -25746,6 +25751,7 @@ nEHt
 nti
 not
 nzus
+naamgeving
 tijd
 tekenen
 true
@@ -30298,6 +30304,7 @@ lopen
 laatste
 loop
 laUE
+linker
 External
 Externe
 Ez
@@ -32589,6 +32596,7 @@ werk
 wYATBW
 wOPBjyE
 weer
+working
 bekijk
 blokgestructureerde
 boom
@@ -34924,6 +34932,7 @@ kweni
 klein
 kleiner
 kTMNLpS
+kleinste
 cheat
 ca
 ch
@@ -40813,6 +40822,7 @@ uER
 uBc
 umQ
 unsorted
+uitleg
 Orde
 Omgev
 OOP
@@ -41910,6 +41920,7 @@ OWWw
 ONrZ
 OAy
 Omgekeerd
+Oerslechte
 Imperatief
 Important
 Intel
@@ -45407,6 +45418,7 @@ reverse
 recursief
 rest
 right
+rechter
 God
 Google
 Gecko
