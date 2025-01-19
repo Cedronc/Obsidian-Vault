@@ -125,7 +125,14 @@ Maar belangrijk we hebben toegang nodig tot specifieke elementen in O(1)
 ## Conclusie
 ![[Pasted image 20241228142942.png]]
 Hoe meer data je in centraal geheugen zet hoe sneller, dus er is een trade-off.
+# Zoeken
+## Sentinal Search
 
+## Binary Search
+### Vereisten
+1. Toegang tot elementen in O(1)
+2. gesorteerd lijst.
+![[Binary Search.png|500]]
 # Ringen
 ![[Ring Datastructuur]]
 

@@ -16,5 +16,4 @@
 **find**:
     Naive implementatie met sequentieel zoeken is in $O(n)$, maar kan gemakkelijk geoptimaliseerd worden door bv. Binair zoeken, sentinal search.
 
-### Find: Binary Search
-![[Binary Search.png|500]]
+### Find: 
