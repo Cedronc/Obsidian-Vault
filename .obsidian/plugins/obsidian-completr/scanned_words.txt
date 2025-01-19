@@ -5901,6 +5901,7 @@ gebeurt
 gesorteerd
 gemerged
 gevonden
+geval
 Patternmatching
 PrioQue
 Positional
@@ -9423,6 +9424,7 @@ dmh
 divide
 degenarating
 disgusting
+delete
 KMP
 Kleine
 KHTML
@@ -12945,6 +12947,7 @@ vEH
 vandaar
 vanwege
 verplaats
+vectors
 mijn
 memo
 mbv
@@ -26833,6 +26836,7 @@ then
 tail
 takes
 tijdens
+tot
 Boompjes
 BM
 BFa
@@ -30224,6 +30228,7 @@ lvlw
 lussen
 loops
 leggen
+leeg
 External
 Externe
 Ez
