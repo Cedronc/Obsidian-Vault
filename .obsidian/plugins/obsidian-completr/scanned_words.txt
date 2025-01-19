@@ -1127,6 +1127,7 @@ AAAABD
 AAAABE
 AAAABF
 Avg
+Again
 Theorie
 Tijdsindicatie
 Trees
@@ -2339,6 +2340,8 @@ Ttot
 Times
 Therefore
 The
+THRJ
+Take
 Snelheid
 Stacks
 Sorteren
@@ -3523,6 +3526,7 @@ STIXSizeThreeSym
 Sort
 Simpele
 Selection
+Sometimes
 en
 evaluator
 errors
@@ -9425,6 +9429,7 @@ divide
 degenarating
 disgusting
 delete
+dSN
 KMP
 Kleine
 KHTML
@@ -10594,6 +10599,7 @@ KOu
 KLV
 Knal
 Klad
+KqDByz
 pre
 process
 procedure
@@ -15306,6 +15312,7 @@ sort
 simpele
 sorteer
 ste
+split
 abracadabra
 alle
 aan
@@ -16459,6 +16466,10 @@ algoritmes
 arrays
 algorithmes
 altijd
+again
+are
+already
+accidentally
 Lineaire
 Lees
 Lin
@@ -17613,6 +17624,8 @@ LOh
 LMt
 LIhY
 LuTuVESr
+Loop
+Links
 Datastruct
 Dagen
 Database
@@ -22241,6 +22254,7 @@ ikK
 implemntaties
 insertion
 inner
+indx
 Check
 Compiler
 Closure
@@ -23376,6 +23390,9 @@ CZiz
 CwiEe
 Conquer
 Chooses
+Code
+CLJ
+Choose
 from
 fuck
 ff
@@ -24610,6 +24627,7 @@ fyI
 fdN
 fla
 fSXn
+for
 na
 nodig
 niet
@@ -29048,6 +29066,7 @@ opxra
 ofzoiet
 opgesplitste
 outer
+over
 lang
 list
 lst
@@ -30229,6 +30248,9 @@ lussen
 loops
 leggen
 leeg
+length
+left
+likewise
 External
 Externe
 Ez
@@ -31405,6 +31427,7 @@ EFSF
 Euj
 EQyJ
 Explained
+Element
 wel
 wu
 wt
@@ -32512,6 +32535,8 @@ whw
 wordt
 where
 werk
+wYATBW
+wOPBjyE
 bekijk
 blokgestructureerde
 boom
@@ -33641,6 +33666,7 @@ bdO
 bmOx
 bNn
 backtracken
+both
 kennen
 kunnen
 kG
@@ -36014,6 +36040,7 @@ case
 choose
 care
 chosen
+crBlfaxf
 herhaling
 hand
 het
@@ -45317,6 +45344,7 @@ random
 reverse
 recursief
 rest
+right
 God
 Google
 Gecko
@@ -46460,6 +46488,7 @@ GeVT
 GSJ
 GCQ
 Goed
+Given
 zoek
 zGQ
 ze
@@ -47618,6 +47647,7 @@ zdA
 zKM
 zoals
 zodat
+zYpQClts
 Normal
 Nd
 NigUw
@@ -48762,6 +48792,9 @@ New
 NJu
 Niet
 Naive
+Now
+NUsi
+Note
 Filter
 FlateDecode
 FBk
@@ -54443,6 +54476,7 @@ JYc
 JCr
 JPZ
 JvW
+JfA
 YzY
 YL
 Yb
@@ -57860,6 +57894,7 @@ jBW
 jfm
 jjP
 jRgf
+juRXr
 xI
 xBor
 xO
