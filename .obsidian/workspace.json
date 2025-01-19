@@ -51,18 +51,6 @@
             }
           },
           {
-            "id": "dd1a4851cd8bfc43",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Hoofdstuk 6"
-            }
-          },
-          {
             "id": "9aebacc7ca81f11d",
             "type": "leaf",
             "state": {
@@ -93,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "bd6be37c883d4400",
@@ -351,8 +339,33 @@
                   "icon": "lucide-file-text",
                   "title": "Hoofdstuk 3"
                 }
+              },
+              {
+                "id": "dd1a4851cd8bfc43",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Hoofdstuk 6"
+                }
+              },
+              {
+                "id": "ace051dce97ad6f4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "links-tussen-de-hoofdstukken"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -365,10 +378,12 @@
       }
     ]
   },
-  "active": "0f9ded474292ab9e",
+  "active": "ace051dce97ad6f4",
   "lastOpenFiles": [
-    "1 - Indexes/Reële Functies.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
+    "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
+    "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
+    "1 - Indexes/Reële Functies.md",
     "3 - Main Notes/Important Other/Planning.md",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
@@ -400,13 +415,11 @@
     "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md",
     "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md",
     "2 - Rough Notes/Drawing 2025-01-19 14.26.13_0.excalidraw.md",
-    "New Text Document.txt",
     "README.md",
     "1 - Indexes/Discrete Wiskunde.md",
     "2 - Rough Notes/fuck le me.md",
     "3 - Main Notes/Programming/Algorithms - 1/Hashing.md",
     "2 - Rough Notes/Dictionary.md",
-    "2 - Rough Notes/Drawing 2025-01-06 23.25.10.excalidraw.md",
     "4 - Source Material/Images/Pasted image 20250110134132.png",
     "4 - Source Material/Images/Pasted image 20250110134131.png",
     "4 - Source Material/Images/Pasted image 20250110134122.png",
