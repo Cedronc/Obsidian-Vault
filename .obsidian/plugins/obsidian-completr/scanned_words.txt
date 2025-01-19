@@ -2681,6 +2681,7 @@ Thus
 Types
 This
 Terug
+Toegang
 Snelheid
 Stacks
 Sorteren
@@ -4041,6 +4042,8 @@ Signature
 Says
 Style
 Schrijven
+Sentinal
+Splits
 en
 evaluator
 errors
@@ -10902,6 +10905,7 @@ detail
 deeper
 datastructuur
 dubbel
+doet
 KMP
 Kleine
 KHTML
@@ -16270,6 +16274,7 @@ method
 many
 metadata
 move
+minder
 samenvatting
 specifieke
 scheme
@@ -31122,6 +31127,8 @@ than
 test
 talking
 toekent
+tijdscomplexiteit
+toekomt
 Boompjes
 BM
 BFa
@@ -37672,6 +37679,7 @@ writing
 whole
 which
 would
+welke
 bekijk
 blokgestructureerde
 boom
@@ -51197,6 +51205,8 @@ Voeg
 Verwijder
 Verbeteringen
 Vandaar
+Vereisten
+Voegt
 recursieve
 rY
 rU

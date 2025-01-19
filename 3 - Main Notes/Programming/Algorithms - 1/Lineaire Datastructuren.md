@@ -127,8 +127,16 @@ Maar belangrijk we hebben toegang nodig tot specifieke elementen in O(1)
 Hoe meer data je in centraal geheugen zet hoe sneller, dus er is een trade-off.
 # Zoeken
 ## Sentinal Search
+Een verbeteringen op sequentieel zoeken niet in tijdscomplexiteit maar in de hoeveelheid werk per stap. Is ook nog altijd in $O(n)$ maar elke stap minder werk.
+
+Voegt een "sentinal" toe (onze implementatie is het gezochte element) Zodat hij altijd iets terug vindt. Dan op het einde van de `find` kan men checken of dit het "laatste" element is of in andere woorden de "sentinal". Als dit de sentinal is return false.
+### Vereisten
+1. `attach-last!` moet in O(1) kunnen.
+### Code
+![[Sentinal Search.png|500]]
 
 ## Binary Search
+Splits de lijst in 2 en checkt in welke v/d 2 lijsten hij zit en doet dat opnieuw tot je bij het element toekomt.
 ### Vereisten
 1. Toegang tot elementen in O(1)
 2. gesorteerd lijst.
