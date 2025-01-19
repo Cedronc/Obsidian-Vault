@@ -50,7 +50,7 @@ Het ADT houdt de size bij wat het laatst toegevoegd element is. Ook de comperato
 Deze implementatie heeft de navigatie en verificatie procedures met een time complexion van O(1). 
 
 ### Hulp procedures
-Storage moving: O(n)
+Storage moving (1 naar links of rechts): O(n)
 verzet een interval van de vector naar rechts of links.
 
 ### Manipulatie 
