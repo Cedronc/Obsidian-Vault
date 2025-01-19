@@ -38,11 +38,13 @@ The pivot gets chosen of 3 elements...
 ## Properties
 **Prop 1.**
     Niet [[In-Place]].
-
 **Prop 2.**
+    Niet stabiel bij strict ongelijkheid.
+**Prop 3.**
     Goed voor lijsten, vandaar [[Multiway Balanced Merge Sort]].
     Ook andere externe sorting algorithmes.
-
+    
+![[2 - Rough Notes/Mergesort Example]]
 
 # Heap Sort
 ---
@@ -50,4 +52,4 @@ The pivot gets chosen of 3 elements...
 
 **TLDR:** 
     Knal een `from-scheme-vector` in geval van vectors in een heap en delete dan tot de heap leeg is.
-
+    [[Heaps]] ![[Heap Example]]

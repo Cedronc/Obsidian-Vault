@@ -1128,6 +1128,7 @@ AAAABE
 AAAABF
 Avg
 Again
+Alle
 Theorie
 Tijdsindicatie
 Trees
@@ -4708,6 +4709,9 @@ eruit
 element
 enzovoort
 einde
+eind
+eig
+echte
 geheugengebruik
 gaat
 gegenereerde
@@ -5914,6 +5918,8 @@ gezet
 gelinkte
 groot
 gooien
+genoeg
+groenen
 Patternmatching
 PrioQue
 Positional
@@ -9441,6 +9447,7 @@ disgusting
 delete
 dSN
 doen
+door
 KMP
 Kleine
 KHTML
@@ -12972,6 +12979,7 @@ veranderd
 vroeger
 vectoren
 volgend
+variabelen
 mijn
 memo
 mbv
@@ -15341,6 +15349,11 @@ staat
 stoppen
 strikte
 subvector
+start
+schrijft
+stappen
+stabiel
+strict
 abracadabra
 alle
 aan
@@ -18878,6 +18891,7 @@ DVv
 Divide
 Dan
 Dpbi
+DSH
 Heaps
 Hashing
 Hogere
@@ -24667,6 +24681,7 @@ fdN
 fla
 fSXn
 for
+flush
 na
 nodig
 niet
@@ -32598,6 +32613,8 @@ wYATBW
 wOPBjyE
 weer
 working
+wrapper
+weg
 bekijk
 blokgestructureerde
 boom
@@ -33730,6 +33747,8 @@ backtracken
 both
 bubbelen
 bereikt
+begrijpen
+baIB
 kennen
 kunnen
 kG
@@ -36109,6 +36128,7 @@ crBlfaxf
 changed
 compares
 cSmJq
+code
 herhaling
 hand
 het
@@ -40824,6 +40844,7 @@ uBc
 umQ
 unsorted
 uitleg
+uitgevoerd
 Orde
 Omgev
 OOP
@@ -43093,6 +43114,7 @@ IeNA
 IVD
 Insertion
 Iiff
+Incomplete
 Verschil
 VEe
 Va
@@ -44252,6 +44274,7 @@ VMfYS
 VAt
 Variations
 Vergelijk
+VJluTA
 recursieve
 rY
 rU
@@ -45420,6 +45443,8 @@ recursief
 rest
 right
 rechter
+remaining
+resterende
 God
 Google
 Gecko
