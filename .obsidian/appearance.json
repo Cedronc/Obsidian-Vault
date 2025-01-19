@@ -10,7 +10,8 @@
     "file-explorer",
     "print",
     "dashboard++",
-    "custom-styling"
+    "custom-styling",
+    "font-size"
   ],
-  "textFontFamily": "JetBrains Mono NL,JetBrains Mono"
+  "textFontFamily": ""
 }
