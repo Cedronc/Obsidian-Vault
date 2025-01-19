@@ -84,19 +84,16 @@
             "id": "f24a788149384c40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Positional Lists"
+              "icon": "lucide-file-text",
+              "title": "Hoofdstuk 3"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "bd6be37c883d4400",
@@ -314,8 +311,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -393,11 +389,11 @@
       }
     ]
   },
-  "active": "331af243b6b64881",
+  "active": "f24a788149384c40",
   "lastOpenFiles": [
     "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
     "3 - Main Notes/Important Other/Planning.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
