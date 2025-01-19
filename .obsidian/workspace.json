@@ -6,7 +6,7 @@
       {
         "id": "407301bf61bbbdc7",
         "type": "tabs",
-        "dimension": 78.67746288798921,
+        "dimension": 76.59279778393352,
         "children": [
           {
             "id": "33c2bf61220a7e9c",
@@ -86,7 +86,7 @@
       {
         "id": "bd6be37c883d4400",
         "type": "split",
-        "dimension": 21.3225371120108,
+        "dimension": 23.407202216066484,
         "children": [
           {
             "id": "d349e185f37fdb43",
@@ -365,7 +365,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -378,13 +378,13 @@
       }
     ]
   },
-  "active": "ace051dce97ad6f4",
+  "active": "0f9ded474292ab9e",
   "lastOpenFiles": [
+    "3 - Main Notes/Important Other/Planning.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
     "1 - Indexes/Reële Functies.md",
-    "3 - Main Notes/Important Other/Planning.md",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "Sentinal Search.png",
@@ -407,7 +407,6 @@
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf.crdownload",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf.crdownload",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 2.pdf",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 1.pdf",
     "2 - Rough Notes/Lineaire Sorteeralgoritmen.md",
     "2 - Rough Notes/Mergesort Example.md",
     "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",

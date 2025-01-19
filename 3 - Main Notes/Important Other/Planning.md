@@ -10,7 +10,8 @@
 - [x] H5: Sorteren (veel tijd voor nodig)  
     - [ ] Radix Sort
     - [ ] Counting Sort
-- [ ] H6: Boompjes  
+- [x] H6: Boompjes  
+    - [ ] AVT-Trees
 - [x] H7: Hashing (ook lang)  
 - [ ] Positional-list, sorted-lst implementatie
 ### Praktijk
