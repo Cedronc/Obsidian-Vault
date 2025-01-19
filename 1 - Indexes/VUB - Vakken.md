@@ -1,7 +1,7 @@
 ## **About**
 
 ## **Indexes**
-### **Semester 1
+### Semester 1
 - [b] [[Logica & Formele Systemen]]
 - [b] [[Algorithms & Datastructures]]
 - [b] [[Calculus]]
