@@ -3527,6 +3527,8 @@ Sort
 Simpele
 Selection
 Sometimes
+Stabiel
+SSSuusr
 en
 evaluator
 errors
@@ -4705,6 +4707,7 @@ externe
 eruit
 element
 enzovoort
+einde
 geheugengebruik
 gaat
 gegenereerde
@@ -5906,6 +5909,11 @@ gesorteerd
 gemerged
 gevonden
 geval
+grootste
+gezet
+gelinkte
+groot
+gooien
 Patternmatching
 PrioQue
 Positional
@@ -7096,6 +7104,7 @@ PYLyV
 Pvy
 PYn
 PBtt
+Performantie
 Maak
 MBMS
 Mozilla
@@ -8228,6 +8237,7 @@ Median
 Merge
 Min
 Maar
+MBhoqXF
 de
 duren
 diagrammen
@@ -9430,6 +9440,7 @@ degenarating
 disgusting
 delete
 dSN
+doen
 KMP
 Kleine
 KHTML
@@ -11796,6 +11807,7 @@ performance
 pivot
 partition
 place
+posities
 van
 vo
 voor
@@ -12954,6 +12966,9 @@ vandaar
 vanwege
 verplaats
 vectors
+verzetten
+veranderd
+vroeger
 mijn
 memo
 mbv
@@ -15313,6 +15328,13 @@ simpele
 sorteer
 ste
 split
+selecteren
+swappen
+stopt
+swaps
+staat
+stoppen
+strikte
 abracadabra
 alle
 aan
@@ -16470,6 +16492,7 @@ again
 are
 already
 accidentally
+algoritme
 Lineaire
 Lees
 Lin
@@ -18848,6 +18871,7 @@ Dsmx
 DVv
 Divide
 Dan
+Dpbi
 Heaps
 Hashing
 Hogere
@@ -22255,6 +22279,12 @@ implemntaties
 insertion
 inner
 indx
+incrementen
+iteratie
+indices
+iteraties
+idee
+itrVAK
 Check
 Compiler
 Closure
@@ -26855,6 +26885,7 @@ tail
 takes
 tijdens
 tot
+tenzij
 Boompjes
 BM
 BFa
@@ -27986,6 +28017,10 @@ BxZx
 BGqMq
 Backlinks
 Bubble
+Begint
+Best
+BuQx
+Basis
 ook
 omgevingsmodel
 omgeving
@@ -29067,6 +29102,9 @@ ofzoiet
 opgesplitste
 outer
 over
+ongelijkheid
+opsplitsen
+originele
 lang
 list
 lst
@@ -30251,6 +30289,10 @@ leeg
 length
 left
 likewise
+lopen
+laatste
+loop
+laUE
 External
 Externe
 Ez
@@ -31428,6 +31470,10 @@ Euj
 EQyJ
 Explained
 Element
+EXzzU
+Evbn
+EBhXk
+Eigenschappen
 wel
 wu
 wt
@@ -32537,6 +32583,7 @@ where
 werk
 wYATBW
 wOPBjyE
+weer
 bekijk
 blokgestructureerde
 boom
@@ -33667,6 +33714,8 @@ bmOx
 bNn
 backtracken
 both
+bubbelen
+bereikt
 kennen
 kunnen
 kG
@@ -34869,6 +34918,7 @@ kOv
 kweni
 klein
 kleiner
+kTMNLpS
 cheat
 ca
 ch
@@ -36041,6 +36091,8 @@ choose
 care
 chosen
 crBlfaxf
+changed
+compares
 herhaling
 hand
 het
@@ -37269,6 +37321,7 @@ heapsort
 haal
 heap
 handig
+helften
 Repl
 Runtime
 Recursie
@@ -39584,6 +39637,7 @@ ytee
 yVi
 yuC
 yxXZ
+ytrWEglt
 uitleggen
 uo
 uh
@@ -40752,6 +40806,7 @@ uAj
 uER
 uBc
 umQ
+unsorted
 Orde
 Omgev
 OOP
@@ -43019,6 +43074,7 @@ Iyve
 IeNA
 IVD
 Insertion
+Iiff
 Verschil
 VEe
 Va
@@ -46489,6 +46545,7 @@ GSJ
 GCQ
 Goed
 Given
+Gemakkelijk
 zoek
 zGQ
 ze
@@ -47648,6 +47705,7 @@ zKM
 zoals
 zodat
 zYpQClts
+zDUTXCZe
 Normal
 Nd
 NigUw
@@ -53377,6 +53435,7 @@ WUb
 WIQ
 WUI
 WFs
+Worst
 JU
 Jh
 JhM
@@ -57895,6 +57954,8 @@ jfm
 jjP
 jRgf
 juRXr
+juist
+jNHFe
 xI
 xBor
 xO
@@ -59043,6 +59104,7 @@ xgu
 xQSG
 xCvv
 xHR
+xDc
 Xm
 XgU
 Xbn

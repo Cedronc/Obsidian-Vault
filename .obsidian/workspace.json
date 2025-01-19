@@ -76,6 +76,18 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-01-19 14.26.13.excalidraw"
             }
+          },
+          {
+            "id": "31dd3120547d12c7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Bubble Sort"
+            }
           }
         ],
         "currentTab": 4
@@ -354,12 +366,13 @@
   },
   "active": "8d0529d344c58f90",
   "lastOpenFiles": [
+    "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
+    "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md",
     "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md",
     "2 - Rough Notes/Drawing 2025-01-19 14.26.13.excalidraw.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
     "2 - Rough Notes/Drawing 2025-01-19 14.26.13_0.excalidraw.md",
-    "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md",
     "3 - Main Notes/Important Other/Planning.md",
     "1 - Indexes/VUB - Vakken.md",
     "New Text Document.txt",
@@ -399,7 +412,6 @@
     "2 - Rough Notes/Lambda oefeningen.md",
     "3 - Main Notes/Programming/Algorithms - 1/Knuth-Morris-Pratt.md",
     "3 - Main Notes/Maths/Calculus/Limieten Study GPS 1.md",
-    "3 - Main Notes/Maths/Calculus/Berekenen van Limieten.md",
     "Untitled.canvas"
   ]
 }
