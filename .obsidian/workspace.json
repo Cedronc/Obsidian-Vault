@@ -71,17 +71,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
+                "file": "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ring Datastructuur"
+              "title": "Lineaire Datastructuren"
+            }
+          },
+          {
+            "id": "331af243b6b64881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lineaire Datastructuren"
+            }
+          },
+          {
+            "id": "f24a788149384c40",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Hoofdstuk 3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "bd6be37c883d4400",
@@ -378,21 +405,21 @@
       }
     ]
   },
-  "active": "0f9ded474292ab9e",
+  "active": "f24a788149384c40",
   "lastOpenFiles": [
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
+    "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
+    "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
     "3 - Main Notes/Important Other/Planning.md",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
     "1 - Indexes/Reële Functies.md",
-    "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "3 - Main Notes/Programming/Algorithms - 1/Sorted List.md",
     "Binary Search.png",
     "Sorted List - Add!.png",
-    "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
     "3 - Main Notes/Maths/Algebra/Matrices.md",
     "1 - Indexes/VUB - Vakken.md",
     "1 - Indexes/Algorithms & Datastructures.md",

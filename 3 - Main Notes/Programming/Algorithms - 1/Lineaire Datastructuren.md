@@ -83,7 +83,7 @@ De rest zal ook in O(1) gebeuren omdat er slechts een header verzet moet worden 
 ***
 ## Double linked list
 Met de meeste snelle operaties (maar meeste geheugen gebruik).
-- Een pointer naar de previous node. Zodat de procedures van de [[#Single Linked List|SLL]] die in O(n) gingen nu ook in O(1).
+- Een pointer naar de previous node. Zodat de procedures van de single linked list [[#Single Linked List|SLL]] die in O(n) gingen nu ook in O(1).
 - Extra meta informatie in de header. Zoals de lengte
 
 ![[Pasted image 20241228142308.png]]
