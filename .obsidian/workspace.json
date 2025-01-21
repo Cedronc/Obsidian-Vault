@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "bd6be37c883d4400",
@@ -311,7 +311,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,75 +328,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "33025f5a2fe093ad",
-    "type": "floating",
-    "children": [
-      {
-        "id": "70601ac9c1fda6ea",
-        "type": "window",
-        "children": [
-          {
-            "id": "f21b72d568d1b3f6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ce4fef24d64d5c76",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Hoofdstuk 3"
-                }
-              },
-              {
-                "id": "dd1a4851cd8bfc43",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Hoofdstuk 6"
-                }
-              },
-              {
-                "id": "ace051dce97ad6f4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "links-tussen-de-hoofdstukken"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 2218,
-        "y": 218,
-        "width": 1300,
-        "height": 1000,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f24a788149384c40",
+  "active": "de594c978190c8ec",
   "lastOpenFiles": [
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 4.pdf",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
+    "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf",
+    "3 - Main Notes/Important Other/Planning.md",
+    "1 - Indexes/VUB - Vakken.md",
     "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
-    "3 - Main Notes/Important Other/Planning.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
@@ -406,19 +349,16 @@
     "Binary Search.png",
     "Sorted List - Add!.png",
     "3 - Main Notes/Maths/Algebra/Matrices.md",
-    "1 - Indexes/VUB - Vakken.md",
     "1 - Indexes/Algorithms & Datastructures.md",
     "1 - Indexes/Goniometrie.md",
     "1 - Indexes/Calculus.md",
     "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "3 - Main Notes/Programming/Algorithms - 1/Algoritms & Datastructures Terminology.md",
     "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf.crdownload",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf.crdownload",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf.crdownload",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 2.pdf",
     "2 - Rough Notes/Lineaire Sorteeralgoritmen.md",
     "2 - Rough Notes/Mergesort Example.md",
     "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
