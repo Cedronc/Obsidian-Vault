@@ -20,7 +20,7 @@
 - [x] [3.1c](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:32)
 - [x] 3.2
 - [x] 3.3
-- [ ] 3.5
+- [x] 3.5
 - [ ] 3.7
 - [ ] 3.8
 - [ ] [4.2](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:44)
