@@ -17,13 +17,13 @@
 ### Praktijk
 - [ ] [2.6](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:27)
 - [ ] 2.7
-- [x] 3.1c
+- [x] [3.1c](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:32)
 - [x] 3.2
 - [x] 3.3
 - [ ] 3.5
 - [ ] 3.7
 - [ ] 3.8
-- [ ] 4.2
+- [ ] [4.2](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:44)
 - [ ] 4.3
 - [ ] [5.1](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:61)
 - [ ] 5.4
