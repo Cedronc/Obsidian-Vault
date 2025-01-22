@@ -25,7 +25,7 @@
 - [ ] 3.8
 - [ ] [4.2](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:44)
 - [ ] 4.3
-- [ ] [5.1](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:61)
+- [x] [5.1](https://soft.vub.ac.be/~jnicolay/courses/ad1/html-dynamic/index.html#auto:61)
 - [ ] 5.4
 - [ ] 5.7
 - [ ] 5.9
