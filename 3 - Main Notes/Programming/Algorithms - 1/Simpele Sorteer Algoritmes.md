@@ -3,7 +3,7 @@ Simpele sorteer algoritmes zullen altijd 2 lussen hebben
 - outer
 
 Dus altijd O(n^2) vanwege de 2 loops.
-## Bubble Sort (disgusting)
+## Bubble Sort (My beloved)
 ![[Bubble Sort|1000]]
 ## Insertion Sort
 Omgekeerd gesorteerd (handig voor Big O uit te leggen)

@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Insertion Sort",
+      "path": "2 - Rough Notes/Insertion Sort.md"
+    },
+    {
+      "basename": "Simpele Sorteer Algoritmes",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md"
+    },
+    {
+      "basename": "Hoofdstuk 3",
+      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf"
+    },
+    {
+      "basename": "Hoofdstuk 7",
+      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf"
+    },
+    {
       "basename": "Hoofdstuk 2",
       "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 2.pdf"
+    },
+    {
+      "basename": "Hoofdstuk 5",
+      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf"
+    },
+    {
+      "basename": "KMP-Preprocess Example",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md"
+    },
+    {
+      "basename": "Hoofdstuk 4",
+      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 4.pdf"
+    },
+    {
+      "basename": "Hoofdstuk 1",
+      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 1.pdf"
+    },
+    {
+      "basename": "Hoofdstuk 6",
+      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf"
+    },
+    {
+      "basename": "Advanced Sorting Algorithms",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md"
+    },
+    {
+      "basename": "Mergesort Example",
+      "path": "2 - Rough Notes/Mergesort Example.md"
     },
     {
       "basename": "Planning",
@@ -13,44 +57,16 @@
       "path": "3 - Main Notes/Programming/Algorithms - 1/Knuth-Morris-Pratt.md"
     },
     {
-      "basename": "KMP-Preprocess Example",
-      "path": "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md"
-    },
-    {
-      "basename": "Hoofdstuk 6",
-      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf"
-    },
-    {
-      "basename": "Hoofdstuk 5",
-      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf"
-    },
-    {
       "basename": "Quicksort Explained",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md"
-    },
-    {
-      "basename": "Advanced Sorting Algorithms",
-      "path": "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md"
-    },
-    {
-      "basename": "Hoofdstuk 7",
-      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf"
     },
     {
       "basename": "VUB - Vakken",
       "path": "1 - Indexes/VUB - Vakken.md"
     },
     {
-      "basename": "Hoofdstuk 4",
-      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 4.pdf"
-    },
-    {
       "basename": "Hoofdstuk 9 - Closures en Omgevingsdiagrammen",
       "path": "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf"
-    },
-    {
-      "basename": "Hoofdstuk 3",
-      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf"
     },
     {
       "basename": "Lineaire Datastructuren",
@@ -89,24 +105,12 @@
       "path": "3 - Main Notes/Programming/Algorithms - 1/Algoritms & Datastructures Terminology.md"
     },
     {
-      "basename": "Hoofdstuk 1",
-      "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 1.pdf"
-    },
-    {
       "basename": "Lineaire Sorteeralgoritmen",
       "path": "2 - Rough Notes/Lineaire Sorteeralgoritmen.md"
     },
     {
-      "basename": "Mergesort Example",
-      "path": "2 - Rough Notes/Mergesort Example.md"
-    },
-    {
       "basename": "Bubble Sort",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md"
-    },
-    {
-      "basename": "Simpele Sorteer Algoritmes",
-      "path": "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md"
     },
     {
       "basename": "Drawing 2025-01-19 14.26.13_0.excalidraw",
