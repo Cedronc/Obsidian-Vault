@@ -29,10 +29,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf"
+                "file": "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Hoofdstuk 9 - Closures en Omgevingsdiagrammen"
+              "title": "Hoofdstuk 6"
             }
           },
           {
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bd6be37c883d4400",
@@ -328,18 +328,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "de594c978190c8ec",
+  "active": "5aff27758282c936",
   "lastOpenFiles": [
+    "1 - Indexes/VUB - Vakken.md",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 4.pdf",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf",
     "3 - Main Notes/Important Other/Planning.md",
-    "1 - Indexes/VUB - Vakken.md",
+    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
     "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
     "1 - Indexes/Reële Functies.md",
@@ -355,10 +356,8 @@
     "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "3 - Main Notes/Programming/Algorithms - 1/Algoritms & Datastructures Terminology.md",
     "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf.crdownload",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf.crdownload",
-    "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf.crdownload",
     "2 - Rough Notes/Lineaire Sorteeralgoritmen.md",
     "2 - Rough Notes/Mergesort Example.md",
     "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
