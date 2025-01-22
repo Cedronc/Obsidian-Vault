@@ -2,7 +2,7 @@
 ### Theorie
 - [x] H1: Snelheid en geheugengebruik  
 - [x] H2: Patternmatching  
-    - [ ] Maak de KMP pre-process van mijn samenvatting "abracadabra"
+    - [x] Maak de KMP pre-process van mijn samenvatting "abracadabra"
 - [x] H3: Lineaire Datastruct (2u vo alle)  
 - [x] H4: Stacks, Heaps, PrioQue, Queeus  
     - [ ] Lees de specifieke implementatie voor alle Lin ADT's
