@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Insertion Sort",
-      "path": "2 - Rough Notes/Insertion Sort.md"
+      "basename": "Hashing",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/Hashing.md"
+    },
+    {
+      "basename": "Hashing Oefening",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/Hashing Oefening.md"
+    },
+    {
+      "basename": "VUB - Vakken",
+      "path": "1 - Indexes/VUB - Vakken.md"
     },
     {
       "basename": "Simpele Sorteer Algoritmes",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md"
+    },
+    {
+      "basename": "Selection Sort",
+      "path": "2 - Rough Notes/Selection Sort.md"
+    },
+    {
+      "basename": "Insertion Sort",
+      "path": "2 - Rough Notes/Insertion Sort.md"
     },
     {
       "basename": "Hoofdstuk 3",
@@ -59,10 +75,6 @@
     {
       "basename": "Quicksort Explained",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md"
-    },
-    {
-      "basename": "VUB - Vakken",
-      "path": "1 - Indexes/VUB - Vakken.md"
     },
     {
       "basename": "Hoofdstuk 9 - Closures en Omgevingsdiagrammen",
@@ -119,10 +131,6 @@
     {
       "basename": "Discrete Wiskunde",
       "path": "1 - Indexes/Discrete Wiskunde.md"
-    },
-    {
-      "basename": "Hashing",
-      "path": "3 - Main Notes/Programming/Algorithms - 1/Hashing.md"
     },
     {
       "basename": "Dictionary",

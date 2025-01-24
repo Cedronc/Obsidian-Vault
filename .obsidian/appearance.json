@@ -7,11 +7,11 @@
   "monospaceFontFamily": "",
   "enabledCssSnippets": [
     "folder-colors",
-    "file-explorer",
-    "print",
     "dashboard++",
-    "custom-styling",
-    "font-size"
+    "font-size",
+    "print",
+    "file-explorer",
+    "custom-styling"
   ],
   "textFontFamily": ""
 }

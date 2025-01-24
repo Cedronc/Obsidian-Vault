@@ -6,7 +6,7 @@
       {
         "id": "407301bf61bbbdc7",
         "type": "tabs",
-        "dimension": 76.59279778393352,
+        "dimension": 78.19829424307036,
         "children": [
           {
             "id": "33c2bf61220a7e9c",
@@ -54,12 +54,15 @@
             "id": "cc721a84213ab312",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2 - Rough Notes/Insertion Sort.md"
+                "file": "3 - Main Notes/Programming/Algorithms - 1/Hashing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Insertion Sort"
+              "icon": "lucide-file",
+              "title": "Hashing"
             }
           }
         ],
@@ -68,7 +71,7 @@
       {
         "id": "bd6be37c883d4400",
         "type": "split",
-        "dimension": 23.407202216066484,
+        "dimension": 21.801705756929643,
         "children": [
           {
             "id": "d349e185f37fdb43",
@@ -178,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "e12aeb546fadc2b5",
@@ -299,9 +301,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cc721a84213ab312",
+  "active": "2f69076b2166475b",
   "lastOpenFiles": [
+    "3 - Main Notes/Programming/Algorithms - 1/Hashing Oefening.md",
+    "3 - Main Notes/Programming/Algorithms - 1/Hashing.md",
+    "1 - Indexes/VUB - Vakken.md",
     "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md",
+    "2 - Rough Notes/Selection Sort.md",
+    "2 - Rough Notes/Insertion Sort.md",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 3.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 7.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 2.pdf",
@@ -315,7 +322,6 @@
     "3 - Main Notes/Important Other/Planning.md",
     "3 - Main Notes/Programming/Algorithms - 1/Knuth-Morris-Pratt.md",
     "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md",
-    "1 - Indexes/VUB - Vakken.md",
     "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
@@ -337,9 +343,6 @@
     "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
     "2 - Rough Notes/In-Place.md",
     "2 - Rough Notes/Drawing 2025-01-19 14.26.13_0.excalidraw.md",
-    "README.md",
-    "1 - Indexes/Discrete Wiskunde.md",
-    "2 - Rough Notes/fuck le me.md",
     "4 - Source Material/Images/Pasted image 20250110134132.png",
     "4 - Source Material/Images/Pasted image 20250110134131.png",
     "4 - Source Material/Images/Pasted image 20250110134122.png",
