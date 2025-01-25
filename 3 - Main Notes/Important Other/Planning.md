@@ -10,12 +10,13 @@
 
 ## Discrete
 ### Praktijk
-- [ ] Inductie
+- [x] Inductie
+- [x] RSA
 - [ ] Combinatoriek
 - [ ] Graven
 - [ ] Planaire graven
 - [ ] Recurrentievergelijkingen
-- [ ] RSA
+
 - [ ] Chinese reststelling
 - [ ] Dubbeltelling
 ### Theorie
