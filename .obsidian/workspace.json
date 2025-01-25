@@ -39,6 +39,18 @@
             }
           },
           {
+            "id": "282b1e50c1ef67b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Source Material/Discrete/DiscreteCursus.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DiscreteCursus"
+            }
+          },
+          {
             "id": "8becbce9be11a399",
             "type": "leaf",
             "state": {
@@ -291,8 +303,10 @@
   },
   "active": "de594c978190c8ec",
   "lastOpenFiles": [
-    "3 - Main Notes/Maths/Discrete/Ringen.md",
+    "4 - Source Material/Discrete/DiscreteCursus.pdf",
     "3 - Main Notes/Important Other/Planning.md",
+    "4 - Source Material/Discrete/Discrete wiskunde.pdf",
+    "3 - Main Notes/Maths/Discrete/Ringen.md",
     "2 - Rough Notes/WIP Bewijs Per Inductie.md",
     "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
     "Pasted Image 20250125154316_198.png",
@@ -327,7 +341,6 @@
     "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
     "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
-    "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "Binary Search.png",

@@ -5,6 +5,14 @@
       "path": "3 - Main Notes/Important Other/Planning.md"
     },
     {
+      "basename": "DiscreteCursus",
+      "path": "4 - Source Material/Discrete/DiscreteCursus.pdf"
+    },
+    {
+      "basename": "Discrete wiskunde",
+      "path": "4 - Source Material/Discrete/Discrete wiskunde.pdf"
+    },
+    {
       "basename": "Ringen",
       "path": "3 - Main Notes/Maths/Discrete/Ringen.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Structuur OG_250116_214131",
       "path": "4 - Source Material/Structuur/Structuur OG_250116_214131.pdf"
-    },
-    {
-      "basename": "Hoofdstuk 12 - Stromen",
-      "path": "4 - Source Material/Structuur/Hoofdstuk 12 - Stromen.pdf"
-    },
-    {
-      "basename": "Hoofdstuk 10 - Objectgericht Programmeren",
-      "path": "4 - Source Material/Structuur/Hoofdstuk 10 - Objectgericht Programmeren.pdf"
     }
   ],
   "omittedPaths": [],

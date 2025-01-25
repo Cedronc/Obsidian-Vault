@@ -9,6 +9,15 @@
 - [ ] 1,5 Dagen  
 
 ## Discrete
+### Praktijk
+- [ ] Inductie
+- [ ] Combinatoriek
+- [ ] Graven
+- [ ] Planaire graven
+- [ ] Recurrentievergelijkingen
+- [ ] RSA
+- [ ] Chinese reststelling
+- [ ] Dubbeltelling
 ### Theorie
 - [ ] God help mij
 
