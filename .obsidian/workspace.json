@@ -37,9 +37,33 @@
               "icon": "lucide-file",
               "title": "Planning"
             }
+          },
+          {
+            "id": "046eb5b28844ce22",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-25 14.54.21.excalidraw"
+            }
+          },
+          {
+            "id": "d9808f2b836dde58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Bewijs Per Inductie Vb. Oef."
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "bd6be37c883d4400",
@@ -154,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "e12aeb546fadc2b5",
@@ -274,8 +299,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "de594c978190c8ec",
+  "active": "d9808f2b836dde58",
   "lastOpenFiles": [
+    "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
+    "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
+    "Pasted Image 20250125145540_658.png",
+    "3 - Main Notes/Important Other/Planning.md",
+    "3 - Main Notes/Maths/Discrete/RSA-Algoritme.md",
     "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md",
     "3 - Main Notes/Maths/Discrete/Oefeningen Teltechnieken.md",
     "3 - Main Notes/Maths/Discrete/Ringen.md",
@@ -297,7 +327,6 @@
     "4 - Source Material/Algo&Data-1/Hoofdstuk 6.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "2 - Rough Notes/Mergesort Example.md",
-    "3 - Main Notes/Important Other/Planning.md",
     "3 - Main Notes/Programming/Algorithms - 1/Knuth-Morris-Pratt.md",
     "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md",
     "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf",
@@ -313,15 +342,11 @@
     "Binary Search.png",
     "Sorted List - Add!.png",
     "3 - Main Notes/Maths/Algebra/Matrices.md",
-    "1 - Indexes/Algorithms & Datastructures.md",
-    "1 - Indexes/Goniometrie.md",
-    "1 - Indexes/Calculus.md",
     "4 - Source Material/Images/Pasted image 20250110134132.png",
     "4 - Source Material/Images/Pasted image 20250110134131.png",
     "4 - Source Material/Images/Pasted image 20250110134122.png",
     "4 - Source Material/Images/Pasted image 20250110134126.png",
     "4 - Source Material/Images/Pasted image 20250110134118.png",
-    "4 - Source Material/Images/Pasted image 20250110134123.png",
     "Untitled.canvas"
   ]
 }
