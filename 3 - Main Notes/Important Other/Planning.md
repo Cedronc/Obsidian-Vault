@@ -12,12 +12,11 @@
 ### Praktijk
 - [x] Inductie
 - [x] RSA
+- [x] Chinese reststelling
 - [ ] Combinatoriek
 - [ ] Graven
 - [ ] Planaire graven
 - [ ] Recurrentievergelijkingen
-
-- [ ] Chinese reststelling
 - [ ] Dubbeltelling
 ### Theorie
 - [ ] God help mij
