@@ -39,27 +39,18 @@
             }
           },
           {
-            "id": "b6d0fa4813d7a658",
+            "id": "8becbce9be11a399",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2 - Rough Notes/Drawing 2025-01-25 15.43.08.excalidraw.md"
+                "file": "3 - Main Notes/Maths/Discrete/Ringen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-25 15.43.08.excalidraw"
-            }
-          },
-          {
-            "id": "d9808f2b836dde58",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bewijs Per Inductie Vb. Oef."
+              "icon": "lucide-file",
+              "title": "Ringen"
             }
           }
         ],
@@ -178,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "e12aeb546fadc2b5",
@@ -299,12 +289,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6d0fa4813d7a658",
+  "active": "8becbce9be11a399",
   "lastOpenFiles": [
-    "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
-    "2 - Rough Notes/Drawing 2025-01-25 15.43.08.excalidraw.md",
-    "Pasted Image 20250125154316_198.png",
     "3 - Main Notes/Important Other/Planning.md",
+    "2 - Rough Notes/WIP Bewijs Per Inductie.md",
+    "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
+    "Pasted Image 20250125154316_198.png",
     "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
     "3 - Main Notes/Logica/Prenextvorm - Hoe op lossen.md",
     "Pasted Image 20250125145540_658.png",
