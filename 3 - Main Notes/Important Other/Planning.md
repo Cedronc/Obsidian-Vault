@@ -11,4 +11,5 @@
 ## Discrete
 ### Theorie
 - [ ] God help mij
-- [ ] (zoek de anki van Quentin)  
+
+- [ ] Overschrijving BNP -> KBC

@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bd6be37c883d4400",
@@ -289,8 +289,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8becbce9be11a399",
+  "active": "de594c978190c8ec",
   "lastOpenFiles": [
+    "3 - Main Notes/Maths/Discrete/Ringen.md",
     "3 - Main Notes/Important Other/Planning.md",
     "2 - Rough Notes/WIP Bewijs Per Inductie.md",
     "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
@@ -301,7 +302,6 @@
     "3 - Main Notes/Maths/Discrete/RSA-Algoritme.md",
     "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md",
     "3 - Main Notes/Maths/Discrete/Oefeningen Teltechnieken.md",
-    "3 - Main Notes/Maths/Discrete/Ringen.md",
     "3 - Main Notes/Maths/Discrete/Extra Ringen.md",
     "3 - Main Notes/Maths/Discrete/Abelse of Commutatieve Group.md",
     "4 - Source Material/Discrete/Important Links.md",
