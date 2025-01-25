@@ -39,6 +39,18 @@
             }
           },
           {
+            "id": "b6d0fa4813d7a658",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2 - Rough Notes/Drawing 2025-01-25 15.43.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-25 15.43.08.excalidraw"
+            }
+          },
+          {
             "id": "d9808f2b836dde58",
             "type": "leaf",
             "state": {
@@ -51,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bd6be37c883d4400",
@@ -287,11 +299,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "de594c978190c8ec",
+  "active": "b6d0fa4813d7a658",
   "lastOpenFiles": [
-    "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
     "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
+    "2 - Rough Notes/Drawing 2025-01-25 15.43.08.excalidraw.md",
+    "Pasted Image 20250125154316_198.png",
     "3 - Main Notes/Important Other/Planning.md",
+    "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
     "3 - Main Notes/Logica/Prenextvorm - Hoe op lossen.md",
     "Pasted Image 20250125145540_658.png",
     "3 - Main Notes/Maths/Discrete/RSA-Algoritme.md",
@@ -324,17 +338,14 @@
     "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
     "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf.crdownload",
-    "1 - Indexes/Reële Functies.md",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
-    "3 - Main Notes/Programming/Algorithms - 1/Sorted List.md",
     "Binary Search.png",
     "Sorted List - Add!.png",
     "4 - Source Material/Images/Pasted image 20250110134132.png",
     "4 - Source Material/Images/Pasted image 20250110134131.png",
     "4 - Source Material/Images/Pasted image 20250110134122.png",
     "4 - Source Material/Images/Pasted image 20250110134126.png",
-    "4 - Source Material/Images/Pasted image 20250110134118.png",
     "Untitled.canvas"
   ]
 }
