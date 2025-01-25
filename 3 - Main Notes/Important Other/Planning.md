@@ -16,7 +16,7 @@
 - [ ] Combinatoriek
 - [ ] Graven
 - [ ] Planaire graven
-- [ ] Recurrentievergelijkingen
+- [ ] Recurrentie
 - [ ] Dubbeltelling
 ### Theorie
 - [ ] God help mij
