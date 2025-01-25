@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "bd6be37c883d4400",
@@ -299,12 +299,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d9808f2b836dde58",
+  "active": "046eb5b28844ce22",
   "lastOpenFiles": [
-    "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
-    "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
-    "Pasted Image 20250125145540_658.png",
     "3 - Main Notes/Important Other/Planning.md",
+    "3 - Main Notes/Logica/Prenextvorm - Hoe op lossen.md",
+    "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
+    "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
+    "Pasted Image 20250125145540_658.png",
     "3 - Main Notes/Maths/Discrete/RSA-Algoritme.md",
     "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md",
     "3 - Main Notes/Maths/Discrete/Oefeningen Teltechnieken.md",
@@ -341,7 +342,6 @@
     "3 - Main Notes/Programming/Algorithms - 1/Sorted List.md",
     "Binary Search.png",
     "Sorted List - Add!.png",
-    "3 - Main Notes/Maths/Algebra/Matrices.md",
     "4 - Source Material/Images/Pasted image 20250110134132.png",
     "4 - Source Material/Images/Pasted image 20250110134131.png",
     "4 - Source Material/Images/Pasted image 20250110134122.png",
