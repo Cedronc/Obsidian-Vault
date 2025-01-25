@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Planning",
+      "path": "3 - Main Notes/Important Other/Planning.md"
+    },
+    {
+      "basename": "KMP-Preprocess Example",
+      "path": "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md"
+    },
+    {
+      "basename": "Oefeningen Teltechnieken",
+      "path": "3 - Main Notes/Maths/Discrete/Oefeningen Teltechnieken.md"
+    },
+    {
       "basename": "Ringen",
       "path": "3 - Main Notes/Maths/Discrete/Ringen.md"
     },
@@ -57,10 +69,6 @@
       "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf"
     },
     {
-      "basename": "KMP-Preprocess Example",
-      "path": "3 - Main Notes/Programming/Algorithms - 1/KMP-Preprocess Example.md"
-    },
-    {
       "basename": "Hoofdstuk 4",
       "path": "4 - Source Material/Algo&Data-1/Hoofdstuk 4.pdf"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "Mergesort Example",
       "path": "2 - Rough Notes/Mergesort Example.md"
-    },
-    {
-      "basename": "Planning",
-      "path": "3 - Main Notes/Important Other/Planning.md"
     },
     {
       "basename": "Knuth-Morris-Pratt",
@@ -195,10 +199,6 @@
     {
       "basename": "Algebra",
       "path": "1 - Indexes/Algebra.md"
-    },
-    {
-      "basename": "Its about drive. Its about power.",
-      "path": "3 - Main Notes/Important Other/Its about drive. Its about power..md"
     }
   ],
   "omittedPaths": [],
