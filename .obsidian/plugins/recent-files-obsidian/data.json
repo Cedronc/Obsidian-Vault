@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Ringen",
+      "path": "3 - Main Notes/Maths/Discrete/Ringen.md"
+    },
+    {
+      "basename": "Extra Ringen",
+      "path": "3 - Main Notes/Maths/Discrete/Extra Ringen.md"
+    },
+    {
+      "basename": "Abelse of Commutatieve Group",
+      "path": "3 - Main Notes/Maths/Discrete/Abelse of Commutatieve Group.md"
+    },
+    {
+      "basename": "Important Links",
+      "path": "4 - Source Material/Discrete/Important Links.md"
+    },
+    {
       "basename": "Hashing",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Hashing.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Its about drive. Its about power.",
       "path": "3 - Main Notes/Important Other/Its about drive. Its about power..md"
-    },
-    {
-      "basename": "Samenvatting Structuur",
-      "path": "4 - Source Material/Structuur/Samenvatting Structuur.pdf"
-    },
-    {
-      "basename": "Hoofdstuk 7 - Imperatief Programmeren",
-      "path": "4 - Source Material/Structuur/Hoofdstuk 7 - Imperatief Programmeren.pdf"
-    },
-    {
-      "basename": "Hoofdstuk 6 - Hogere Orde Procedures",
-      "path": "4 - Source Material/Structuur/Hoofdstuk 6 - Hogere Orde Procedures.pdf"
-    },
-    {
-      "basename": "Hoofdstuk 8 - Abstracte Data Types(ADTs)",
-      "path": "4 - Source Material/Structuur/Hoofdstuk 8 - Abstracte Data Types(ADTs).pdf"
     }
   ],
   "omittedPaths": [],

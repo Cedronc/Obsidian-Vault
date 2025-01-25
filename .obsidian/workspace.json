@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Programming/Algorithms - 1/Hashing.md",
+                "file": "3 - Main Notes/Maths/Discrete/Ringen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashing"
+              "title": "Ringen"
             }
           }
         ],
@@ -301,10 +301,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2f69076b2166475b",
+  "active": "cc721a84213ab312",
   "lastOpenFiles": [
-    "3 - Main Notes/Programming/Algorithms - 1/Hashing Oefening.md",
+    "3 - Main Notes/Maths/Discrete/Extra Ringen.md",
+    "3 - Main Notes/Maths/Discrete/Abelse of Commutatieve Group.md",
+    "4 - Source Material/Discrete/Important Links.md",
     "3 - Main Notes/Programming/Algorithms - 1/Hashing.md",
+    "3 - Main Notes/Programming/Algorithms - 1/Hashing Oefening.md",
     "1 - Indexes/VUB - Vakken.md",
     "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md",
     "2 - Rough Notes/Selection Sort.md",
@@ -340,9 +343,6 @@
     "1 - Indexes/Calculus.md",
     "3 - Main Notes/Programming/Algorithms - 1/Algoritms & Datastructures Terminology.md",
     "2 - Rough Notes/Lineaire Sorteeralgoritmen.md",
-    "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md",
-    "2 - Rough Notes/In-Place.md",
-    "2 - Rough Notes/Drawing 2025-01-19 14.26.13_0.excalidraw.md",
     "4 - Source Material/Images/Pasted image 20250110134132.png",
     "4 - Source Material/Images/Pasted image 20250110134131.png",
     "4 - Source Material/Images/Pasted image 20250110134122.png",
