@@ -6,7 +6,7 @@
       {
         "id": "407301bf61bbbdc7",
         "type": "tabs",
-        "dimension": 75.06925207756233,
+        "dimension": 80.70362473347548,
         "children": [
           {
             "id": "33c2bf61220a7e9c",
@@ -68,7 +68,7 @@
       {
         "id": "bd6be37c883d4400",
         "type": "split",
-        "dimension": 24.930747922437675,
+        "dimension": 19.29637526652452,
         "children": [
           {
             "id": "d349e185f37fdb43",
@@ -299,10 +299,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6d0fa4813d7a658",
+  "active": "0f9ded474292ab9e",
   "lastOpenFiles": [
-    "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
     "2 - Rough Notes/Drawing 2025-01-25 15.43.08.excalidraw.md",
+    "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
     "Pasted Image 20250125154316_198.png",
     "3 - Main Notes/Important Other/Planning.md",
     "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
