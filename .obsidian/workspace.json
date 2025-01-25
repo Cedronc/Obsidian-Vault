@@ -51,6 +51,18 @@
             }
           },
           {
+            "id": "d339910a8e39275e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2 - Rough Notes/WIP Bewijs Per Inductie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "WIP Bewijs Per Inductie"
+            }
+          },
+          {
             "id": "8becbce9be11a399",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "bd6be37c883d4400",
@@ -301,8 +313,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "de594c978190c8ec",
+  "active": "d339910a8e39275e",
   "lastOpenFiles": [
+    "2 - Rough Notes/Drawing 2025-01-19 14.26.13_0.excalidraw.md",
+    "2 - Rough Notes/Drawing 2025-01-06 23.25.10.excalidraw.md",
+    "2 - Rough Notes/Drawing 2025-01-12 20.00.56.excalidraw.md",
     "4 - Source Material/Discrete/DiscreteCursus.pdf",
     "3 - Main Notes/Important Other/Planning.md",
     "4 - Source Material/Discrete/Discrete wiskunde.pdf",
@@ -338,9 +353,6 @@
     "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md",
     "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
-    "3 - Main Notes/Programming/Algorithms - 1/Lineaire Datastructuren.md",
-    "3 - Main Notes/Programming/Algorithms - 1/Ring Datastructuur.md",
-    "4 - Source Material/Algo&Data-1/links-tussen-de-hoofdstukken.pdf",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "Binary Search.png",
