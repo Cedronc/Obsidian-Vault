@@ -13,8 +13,8 @@
 - [x] Inductie
 - [x] RSA
 - [x] Chinese reststelling
-- [ ] Combinatoriek
-- [ ] Graven
+- [x] Combinatoriek
+- [x] Graven
 - [ ] Planaire graven
 - [ ] Recurrentie
 - [x] Dubbeltelling
