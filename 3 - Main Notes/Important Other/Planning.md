@@ -15,7 +15,7 @@
 - [x] Chinese reststelling
 - [x] Combinatoriek
 - [x] Graven
-- [ ] Planaire graven
+- [x] Planaire graven
 - [ ] Recurrentie
 - [x] Dubbeltelling
 ### Theorie
