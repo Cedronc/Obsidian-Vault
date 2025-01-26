@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "bd6be37c883d4400",
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 384.5
   },
   "right": {
     "id": "e12aeb546fadc2b5",
@@ -313,16 +313,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d339910a8e39275e",
+  "active": "de594c978190c8ec",
   "lastOpenFiles": [
+    "4 - Source Material/Discrete/DiscreteCursus.pdf",
+    "2 - Rough Notes/WIP Bewijs Per Inductie.md",
     "2 - Rough Notes/Drawing 2025-01-19 14.26.13_0.excalidraw.md",
     "2 - Rough Notes/Drawing 2025-01-06 23.25.10.excalidraw.md",
     "2 - Rough Notes/Drawing 2025-01-12 20.00.56.excalidraw.md",
-    "4 - Source Material/Discrete/DiscreteCursus.pdf",
     "3 - Main Notes/Important Other/Planning.md",
     "4 - Source Material/Discrete/Discrete wiskunde.pdf",
     "3 - Main Notes/Maths/Discrete/Ringen.md",
-    "2 - Rough Notes/WIP Bewijs Per Inductie.md",
     "3 - Main Notes/Maths/Discrete/Bewijs Per Inductie Vb. Oef..md",
     "Pasted Image 20250125154316_198.png",
     "2 - Rough Notes/Drawing 2025-01-25 14.54.21.excalidraw.md",
@@ -352,7 +352,6 @@
     "3 - Main Notes/Programming/Algorithms - 1/Knuth-Morris-Pratt.md",
     "3 - Main Notes/Programming/Algorithms - 1/Quicksort Explained.md",
     "4 - Source Material/Structuur/Hoofdstuk 9 - Closures en Omgevingsdiagrammen.pdf",
-    "3 - Main Notes/Programming/Algorithms - 1/Positional Lists.md",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "Binary Search.png",

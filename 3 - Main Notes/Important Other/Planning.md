@@ -17,7 +17,7 @@
 - [ ] Graven
 - [ ] Planaire graven
 - [ ] Recurrentie
-- [ ] Dubbeltelling
+- [x] Dubbeltelling
 ### Theorie
 - [ ] God help mij
 
