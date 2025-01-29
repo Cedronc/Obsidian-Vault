@@ -39,18 +39,6 @@
             }
           },
           {
-            "id": "b74ef9e8230ad400",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Source Material/Algo&Data-3/Chapter 16 External Storage.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 16 External Storage"
-            }
-          },
-          {
             "id": "4b138dd30e6e31e5",
             "type": "leaf",
             "state": {
@@ -63,30 +51,15 @@
             }
           },
           {
-            "id": "d339910a8e39275e",
+            "id": "8a102d46c4649e8b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2 - Rough Notes/WIP Bewijs Per Inductie.md"
+                "file": "2 - Rough Notes/Drawing 2025-01-29 22.42.35.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "WIP Bewijs Per Inductie"
-            }
-          },
-          {
-            "id": "8becbce9be11a399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/Maths/Discrete/Ringen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ringen"
+              "title": "Drawing 2025-01-29 22.42.35.excalidraw"
             }
           }
         ],
@@ -325,11 +298,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c151d0fba2c62aae",
+  "active": "8a102d46c4649e8b",
   "lastOpenFiles": [
     "4 - Source Material/Algo&Data-3/Cursus.pdf",
-    "1 - Indexes/VUB - Vakken.md",
+    "2 - Rough Notes/Drawing 2025-01-29 22.42.35.excalidraw.md",
     "4 - Source Material/Algo&Data-3/Chapter 15 Extern Sort.pdf",
+    "1 - Indexes/VUB - Vakken.md",
     "4 - Source Material/Algo&Data-3/Chapter 16 External Storage.pdf",
     "3 - Main Notes/Important Other/Planning.md",
     "2 - Rough Notes/Schema.md",
@@ -363,7 +337,6 @@
     "4 - Source Material/Algo&Data-1/Hoofdstuk 4.pdf",
     "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
     "2 - Rough Notes/Mergesort Example.md",
-    "3 - Main Notes/Programming/Algorithms - 1/Knuth-Morris-Pratt.md",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "Binary Search.png",
