@@ -3,7 +3,7 @@ Wat is meta-interpreter: Een interpreter die geschreven in met een programmeerta
 
 Meta-circulaire-interpreter: 
 - Meta: An int
-- Circulaire: De interpreter wordt gebruik in dezelfde taal 
+- Circulaire: De interpreter wordt gebruik in dezelfde taal (kijk boek bro)
 
 tokenization: een reeks van bv een scheme expression omzetten aparte token 
     + 40 4 3 => \[+, 40, 4, 3]

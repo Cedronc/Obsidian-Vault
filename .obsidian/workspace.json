@@ -37,9 +37,24 @@
               "icon": "lucide-file",
               "title": "HO 1 - ICP"
             }
+          },
+          {
+            "id": "d211fe560ebc927a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Rough Notes/Intro to AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to AI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "23a536dce8078d98",
@@ -155,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "e12aeb546fadc2b5",
@@ -276,7 +290,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c151d0fba2c62aae",
+  "active": "d211fe560ebc927a",
   "lastOpenFiles": [
     "2 - Rough Notes/HO 1 - ICP.md",
     "2 - Rough Notes/HO 2 - Algo & Datastruct.md",
