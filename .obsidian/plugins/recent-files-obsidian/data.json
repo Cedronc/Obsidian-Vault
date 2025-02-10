@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Cursus",
-      "path": "4 - Source Material/Algo&Data-3/Cursus.pdf"
-    },
-    {
       "basename": "HO 1 - ICP",
       "path": "2 - Rough Notes/HO 1 - ICP.md"
+    },
+    {
+      "basename": "Mergesort Example",
+      "path": "2 - Rough Notes/Mergesort Example.md"
+    },
+    {
+      "basename": "Schema",
+      "path": "2 - Rough Notes/Schema.md"
+    },
+    {
+      "basename": "Selection Sort",
+      "path": "2 - Rough Notes/Selection Sort.md"
+    },
+    {
+      "basename": "Syntaxische Suiker",
+      "path": "2 - Rough Notes/Syntaxische Suiker.md"
+    },
+    {
+      "basename": "Planning",
+      "path": "3 - Main Notes/Important Other/Planning.md"
+    },
+    {
+      "basename": "Cursus",
+      "path": "4 - Source Material/Algo&Data-3/Cursus.pdf"
     },
     {
       "basename": "Interpretatie van Computerprogramma's",
@@ -15,10 +35,6 @@
     {
       "basename": "Intro to AI",
       "path": "2 - Rough Notes/Intro to AI.md"
-    },
-    {
-      "basename": "Planning",
-      "path": "3 - Main Notes/Important Other/Planning.md"
     },
     {
       "basename": "Drawing 2025-01-29 22.42.35.excalidraw",
@@ -35,10 +51,6 @@
     {
       "basename": "Chapter 16 External Storage",
       "path": "4 - Source Material/Algo&Data-3/Chapter 16 External Storage.pdf"
-    },
-    {
-      "basename": "Schema",
-      "path": "2 - Rough Notes/Schema.md"
     },
     {
       "basename": "DiscreteCursus",
@@ -113,10 +125,6 @@
       "path": "3 - Main Notes/Programming/Algorithms - 1/Simpele Sorteer Algoritmes.md"
     },
     {
-      "basename": "Selection Sort",
-      "path": "2 - Rough Notes/Selection Sort.md"
-    },
-    {
       "basename": "Insertion Sort",
       "path": "2 - Rough Notes/Insertion Sort.md"
     },
@@ -153,10 +161,6 @@
       "path": "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md"
     },
     {
-      "basename": "Mergesort Example",
-      "path": "2 - Rough Notes/Mergesort Example.md"
-    },
-    {
       "basename": "Knuth-Morris-Pratt",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Knuth-Morris-Pratt.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Matrices",
       "path": "3 - Main Notes/Maths/Algebra/Matrices.md"
-    },
-    {
-      "basename": "Algorithms & Datastructures",
-      "path": "1 - Indexes/Algorithms & Datastructures.md"
-    },
-    {
-      "basename": "Goniometrie",
-      "path": "1 - Indexes/Goniometrie.md"
     }
   ],
   "omittedPaths": [],
