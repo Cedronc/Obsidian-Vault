@@ -39,7 +39,22 @@
             }
           },
           {
-            "id": "64a0ce7783d127d1",
+            "id": "31f8eb21f2796a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Rough Notes/Interpretatie van Computerprogramma's.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Interpretatie van Computerprogramma's"
+            }
+          },
+          {
+            "id": "c116f44ce9a9ae85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "23a536dce8078d98",
@@ -290,9 +305,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "64a0ce7783d127d1",
+  "active": "c116f44ce9a9ae85",
   "lastOpenFiles": [
+    "2 - Rough Notes/Interpretatie van Computerprogramma's.md",
     "2 - Rough Notes/Untitled.md",
+    "2 - Rough Notes/Intro to AI.md",
     "3 - Main Notes/Important Other/Planning.md",
     "4 - Source Material/Algo&Data-3/Cursus.pdf",
     "2 - Rough Notes/Drawing 2025-01-29 22.42.35.excalidraw.md",
@@ -328,8 +345,6 @@
     "4 - Source Material/Algo&Data-1/Hoofdstuk 2.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 5.pdf",
     "4 - Source Material/Algo&Data-1/Hoofdstuk 4.pdf",
-    "3 - Main Notes/Programming/Algorithms - 1/Advanced Sorting Algorithms.md",
-    "2 - Rough Notes/Mergesort Example.md",
     "Sentinal Search.png",
     "Pasted image 20250119175825.png",
     "Binary Search.png",

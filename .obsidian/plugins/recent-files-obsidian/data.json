@@ -5,6 +5,14 @@
       "path": "2 - Rough Notes/Untitled.md"
     },
     {
+      "basename": "Interpretatie van Computerprogramma's",
+      "path": "2 - Rough Notes/Interpretatie van Computerprogramma's.md"
+    },
+    {
+      "basename": "Intro to AI",
+      "path": "2 - Rough Notes/Intro to AI.md"
+    },
+    {
       "basename": "Planning",
       "path": "3 - Main Notes/Important Other/Planning.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Goniometrie",
       "path": "1 - Indexes/Goniometrie.md"
-    },
-    {
-      "basename": "Algoritms & Datastructures Terminology",
-      "path": "3 - Main Notes/Programming/Algorithms - 1/Algoritms & Datastructures Terminology.md"
-    },
-    {
-      "basename": "Lineaire Sorteeralgoritmen",
-      "path": "2 - Rough Notes/Lineaire Sorteeralgoritmen.md"
     }
   ],
   "omittedPaths": [],
