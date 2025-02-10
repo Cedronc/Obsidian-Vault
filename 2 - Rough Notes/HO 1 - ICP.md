@@ -6,7 +6,7 @@ Meta-circulaire-interpreter: ???
 tokenization: een reeks van bv een scheme expression omzetten aparte token 
     + 40 4 3 => \[+, 40, 4, 3]
 
-Parsing: ???
+Parsing: Een gegeven expression omzetten naar een 
 
 Evaluators: Sub-onderdeel van de interpreter, de `eval` & `apply` functie v/d interpreter.
 
