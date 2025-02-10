@@ -84,8 +84,8 @@
                   "state": {
                     "file": "1 - Indexes/VUB - Vakken.md",
                     "mode": "source",
-                    "backlinks": false,
-                    "source": false
+                    "source": false,
+                    "backlinks": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
@@ -131,7 +131,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
