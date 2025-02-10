@@ -5,6 +5,10 @@
       "path": "2 - Rough Notes/Intro to AI.md"
     },
     {
+      "basename": "VUB - Vakken",
+      "path": "1 - Indexes/VUB - Vakken.md"
+    },
+    {
       "basename": "HO 1 - ICP",
       "path": "2 - Rough Notes/HO 1 - ICP.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Chapter 15 Extern Sort",
       "path": "4 - Source Material/Algo&Data-3/Chapter 15 Extern Sort.pdf"
-    },
-    {
-      "basename": "VUB - Vakken",
-      "path": "1 - Indexes/VUB - Vakken.md"
     },
     {
       "basename": "Chapter 16 External Storage",
