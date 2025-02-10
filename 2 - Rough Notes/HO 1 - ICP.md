@@ -8,5 +8,5 @@ tokenization: een reeks van bv een scheme expression omzetten aparten token
 
 Parsing: ???
 
-Evaluators: eig gwn de `eval` & `apply` functie van een interpreter
+Evaluators: Sub-onderdeel van de interpreter, de `eval` & `apply` functie v/d interpreter.
 
