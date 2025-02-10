@@ -6,7 +6,7 @@
       {
         "id": "407301bf61bbbdc7",
         "type": "tabs",
-        "dimension": 80.70362473347548,
+        "dimension": 72.13740458015268,
         "children": [
           {
             "id": "33c2bf61220a7e9c",
@@ -31,44 +31,35 @@
               "state": {
                 "file": "3 - Main Notes/Important Other/Planning.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Planning"
             }
           },
           {
-            "id": "4b138dd30e6e31e5",
+            "id": "64a0ce7783d127d1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Algo&Data-3/Cursus.pdf"
+                "file": "2 - Rough Notes/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Cursus"
-            }
-          },
-          {
-            "id": "8a102d46c4649e8b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2 - Rough Notes/Drawing 2025-01-29 22.42.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-29 22.42.35.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "23a536dce8078d98",
         "type": "split",
-        "dimension": 19.29637526652452,
+        "dimension": 27.86259541984733,
         "children": [
           {
             "id": "d349e185f37fdb43",
@@ -179,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 200
   },
   "right": {
     "id": "e12aeb546fadc2b5",
@@ -299,14 +290,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8a102d46c4649e8b",
+  "active": "64a0ce7783d127d1",
   "lastOpenFiles": [
+    "2 - Rough Notes/Untitled.md",
+    "3 - Main Notes/Important Other/Planning.md",
     "4 - Source Material/Algo&Data-3/Cursus.pdf",
     "2 - Rough Notes/Drawing 2025-01-29 22.42.35.excalidraw.md",
     "4 - Source Material/Algo&Data-3/Chapter 15 Extern Sort.pdf",
     "1 - Indexes/VUB - Vakken.md",
     "4 - Source Material/Algo&Data-3/Chapter 16 External Storage.pdf",
-    "3 - Main Notes/Important Other/Planning.md",
     "2 - Rough Notes/Schema.md",
     "4 - Source Material/Discrete/DiscreteCursus.pdf",
     "2 - Rough Notes/WIP Bewijs Per Inductie.md",

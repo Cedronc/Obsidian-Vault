@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2025-01-29 22.42.35.excalidraw",
-      "path": "2 - Rough Notes/Drawing 2025-01-29 22.42.35.excalidraw.md"
+      "basename": "Untitled",
+      "path": "2 - Rough Notes/Untitled.md"
+    },
+    {
+      "basename": "Planning",
+      "path": "3 - Main Notes/Important Other/Planning.md"
     },
     {
       "basename": "Cursus",
       "path": "4 - Source Material/Algo&Data-3/Cursus.pdf"
+    },
+    {
+      "basename": "Drawing 2025-01-29 22.42.35.excalidraw",
+      "path": "2 - Rough Notes/Drawing 2025-01-29 22.42.35.excalidraw.md"
     },
     {
       "basename": "Chapter 15 Extern Sort",
@@ -19,10 +27,6 @@
     {
       "basename": "Chapter 16 External Storage",
       "path": "4 - Source Material/Algo&Data-3/Chapter 16 External Storage.pdf"
-    },
-    {
-      "basename": "Planning",
-      "path": "3 - Main Notes/Important Other/Planning.md"
     },
     {
       "basename": "Schema",
@@ -195,10 +199,6 @@
     {
       "basename": "Lineaire Sorteeralgoritmen",
       "path": "2 - Rough Notes/Lineaire Sorteeralgoritmen.md"
-    },
-    {
-      "basename": "Bubble Sort",
-      "path": "3 - Main Notes/Programming/Algorithms - 1/Bubble Sort.md"
     }
   ],
   "omittedPaths": [],
