@@ -2,8 +2,8 @@
 Wat is meta-interpreter: Een interpreter die geschreven in met een programmeertaal voor dezelfde programmeertaal.
 
 Meta-circulaire-interpreter: 
-- Meta: Dat de intepreter geschreven is door en voor dezelfde taal
-- Circulaire: 
+- Meta: An int
+- Circulaire: De interpreter wordt gebruik in dezelfde taal 
 
 tokenization: een reeks van bv een scheme expression omzetten aparte token 
     + 40 4 3 => \[+, 40, 4, 3]
