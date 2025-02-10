@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Intro to AI",
-      "path": "2 - Rough Notes/Intro to AI.md"
+      "basename": "Philosophy of AI",
+      "path": "2 - Rough Notes/Philosophy of AI.md"
     },
     {
       "basename": "VUB - Vakken",
       "path": "1 - Indexes/VUB - Vakken.md"
+    },
+    {
+      "basename": "Intro to AI",
+      "path": "2 - Rough Notes/Intro to AI.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "2 - Rough Notes/Intro.md"
     },
     {
       "basename": "HO 1 - ICP",
@@ -191,10 +199,6 @@
     {
       "basename": "Sorted List",
       "path": "3 - Main Notes/Programming/Algorithms - 1/Sorted List.md"
-    },
-    {
-      "basename": "Matrices",
-      "path": "3 - Main Notes/Maths/Algebra/Matrices.md"
     }
   ],
   "omittedPaths": [],
