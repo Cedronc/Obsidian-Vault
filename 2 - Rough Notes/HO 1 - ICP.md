@@ -8,4 +8,3 @@ tokenization: een reeks van bv een scheme expression omzetten aparten token
 
 Parsing: ???
 
-sadlfjs 
